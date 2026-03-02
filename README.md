@@ -28,9 +28,9 @@ Average Treatment Cost.
 ## Key Insights:
 Higher success rates in younger age groups.
 IVF shows the better outcomes compare to other treatments like IUI.
-Repeated cycles slightly imrpve success chances.
+Repeated cycles slightly improve success chances.
 Most of the patient successed in first treatment cycle.
-The gender distribution is almost equal indicating infertility affects both males and females at similar rate, The small percentage difference suggests infertility is not heavily skewed towards one gender in the dataset.
+The gender distribution is almost equal indicating infertility affects both males and females at similar rate. The small percentage difference suggests infertility is not heavily skewed towards one gender in the dataset.
 
 
 ## Conclusion:
