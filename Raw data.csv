@@ -1,0 +1,1201 @@
+Patient_ID,Gender,Age,City,Hospital,Infertility_Type,Primary_Cause,Treatment_Type,Treatment_Cost_INR,Treatment_Cycles,Success,Insurance_Coverage,Year
+P0001,Female,32,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,IVF,289904,2,No,Full,2024
+P0002,Male,34,Kolkata,AMRI Hospital,Primary,Low Motility,IUI,81049,2,Yes,None,2020
+P0003,Male,26,Delhi,Max Hospital,Secondary,Low Sperm Count,IVF,221347,3,Yes,None,2020
+P0004,Female,28,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Surgery,177578,1,No,Partial,2023
+P0005,Female,33,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Medication,30411,2,No,Full,2024
+P0006,Male,40,Pune,Ruby Hall Clinic,Secondary,Varicocele,IVF,291062,2,Yes,Partial,2025
+P0007,Male,29,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,Surgery,197928,1,Yes,Full,2023
+P0008,Male,42,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,IUI,89208,1,No,None,2022
+P0009,Female,36,Delhi,Max Hospital,Primary,Unexplained Infertility,Medication,46212,1,No,None,2021
+P0010,Male,36,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,IVF,197659,3,Yes,None,2022
+P0011,Male,45,Hyderabad,Yashoda Hospital,Secondary,Obstruction,Surgery,140023,1,Yes,Full,2020
+P0012,Male,26,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Surgery,144815,1,No,None,2022
+P0013,Male,39,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,30779,1,No,None,2025
+P0014,Female,35,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,IVF,288102,2,No,Full,2022
+P0015,Female,44,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,Medication,34144,2,Yes,Full,2021
+P0016,Male,37,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,IVF,225814,3,No,Partial,2023
+P0017,Female,29,Delhi,Max Hospital,Secondary,Advanced Maternal Age,IUI,81258,1,No,None,2024
+P0018,Male,26,Hyderabad,Yashoda Hospital,Primary,Low Motility,Medication,38668,2,Yes,Full,2020
+P0019,Female,40,Bangalore,Manipal Hospital,Primary,Endometriosis,Medication,48501,1,Yes,Full,2022
+P0020,Female,34,Delhi,Max Hospital,Primary,Advanced Maternal Age,IUI,85858,2,No,None,2022
+P0021,Male,34,Mumbai,Fortis Hospital,Primary,Infection,IUI,89980,1,No,Partial,2025
+P0022,Female,25,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,160677,1,No,None,2023
+P0023,Male,30,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,IVF,290313,3,No,Full,2022
+P0024,Female,41,Mumbai,Fortis Hospital,Secondary,PCOS,Medication,34008,2,No,None,2023
+P0025,Female,42,Mumbai,Fortis Hospital,Secondary,PCOS,Surgery,177586,1,No,None,2025
+P0026,Male,32,Kolkata,AMRI Hospital,Secondary,Genetic Factors,Medication,38140,2,No,Partial,2020
+P0027,Female,27,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,Surgery,188087,1,Yes,Partial,2024
+P0028,Female,39,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,Medication,59213,1,Yes,Partial,2024
+P0029,Male,42,Chennai,Apollo Hospital,Secondary,Obstruction,Surgery,154914,1,Yes,Partial,2022
+P0030,Female,37,Hyderabad,Yashoda Hospital,Secondary,PCOS,IVF,245117,2,Yes,None,2022
+P0031,Female,40,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Surgery,196732,1,No,None,2022
+P0032,Female,27,Mumbai,Fortis Hospital,Secondary,Endometriosis,IVF,263294,3,No,Partial,2020
+P0033,Female,42,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,Medication,35041,2,Yes,None,2021
+P0034,Female,25,Bangalore,Manipal Hospital,Primary,PCOS,Surgery,141694,1,Yes,Partial,2025
+P0035,Male,41,Chennai,Apollo Hospital,Primary,Low Motility,Surgery,185798,1,No,None,2022
+P0036,Female,33,Pune,Ruby Hall Clinic,Secondary,Endometriosis,IVF,278128,3,Yes,Partial,2021
+P0037,Male,31,Delhi,Max Hospital,Secondary,Hormonal Imbalance,IUI,82782,1,No,None,2022
+P0038,Female,39,Pune,Ruby Hall Clinic,Primary,Endometriosis,IVF,240306,3,Yes,Partial,2024
+P0039,Male,33,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,IVF,193857,2,No,Full,2020
+P0040,Female,36,Bangalore,Manipal Hospital,Secondary,Endometriosis,Surgery,149212,1,Yes,None,2020
+P0041,Male,25,Chennai,Apollo Hospital,Primary,Low Motility,Surgery,168193,1,Yes,Full,2023
+P0042,Female,25,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,IVF,197606,2,No,Partial,2021
+P0043,Female,31,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,IUI,72929,1,No,Partial,2025
+P0044,Male,35,Kolkata,AMRI Hospital,Primary,Infection,IVF,187596,2,Yes,None,2022
+P0045,Female,28,Delhi,Max Hospital,Primary,Advanced Maternal Age,Medication,43791,2,No,Full,2021
+P0046,Male,25,Delhi,Max Hospital,Secondary,Varicocele,Medication,52617,1,No,Full,2020
+P0047,Male,26,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,44572,1,Yes,Partial,2025
+P0048,Female,30,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Surgery,158566,1,Yes,Partial,2020
+P0049,Male,24,Kolkata,AMRI Hospital,Primary,Infection,IUI,81977,1,Yes,None,2025
+P0050,Female,32,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,IVF,299887,3,No,None,2022
+P0051,Male,26,Delhi,Max Hospital,Secondary,Genetic Factors,IVF,267324,2,No,Partial,2025
+P0052,Male,38,Bangalore,Manipal Hospital,Primary,Low Sperm Count,IVF,261175,2,No,Partial,2022
+P0053,Female,28,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IUI,77863,1,No,None,2020
+P0054,Female,41,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Surgery,194268,1,No,None,2020
+P0055,Female,42,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,IVF,263638,2,No,Partial,2024
+P0056,Male,24,Pune,Ruby Hall Clinic,Primary,Varicocele,Medication,58843,1,No,None,2023
+P0057,Female,37,Chennai,Apollo Hospital,Primary,Endometriosis,IVF,252073,2,Yes,Partial,2024
+P0058,Female,36,Delhi,Max Hospital,Secondary,Unexplained Infertility,Medication,32444,1,Yes,Partial,2020
+P0059,Male,24,Bangalore,Manipal Hospital,Primary,Low Motility,IVF,273575,2,No,Full,2023
+P0060,Male,34,Pune,Ruby Hall Clinic,Primary,Obstruction,Surgery,168091,1,Yes,None,2020
+P0061,Female,28,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,Medication,41953,2,No,Partial,2023
+P0062,Female,41,Delhi,Max Hospital,Primary,PCOS,IUI,87030,1,No,Full,2021
+P0063,Male,24,Hyderabad,Yashoda Hospital,Secondary,Infection,Surgery,164476,1,No,Full,2024
+P0064,Male,30,Bangalore,Manipal Hospital,Primary,Varicocele,IVF,256798,2,No,Partial,2023
+P0065,Female,27,Pune,Ruby Hall Clinic,Primary,Endometriosis,Surgery,148899,1,Yes,Partial,2024
+P0066,Female,44,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,Medication,49815,2,No,Partial,2025
+P0067,Male,29,Bangalore,Manipal Hospital,Primary,Obstruction,IVF,270551,2,No,None,2021
+P0068,Female,44,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,IUI,88289,1,Yes,Partial,2024
+P0069,Female,39,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,Surgery,154732,1,Yes,Partial,2025
+P0070,Male,36,Hyderabad,Yashoda Hospital,Primary,Obstruction,Surgery,196674,1,No,Full,2020
+P0071,Male,38,Mumbai,Fortis Hospital,Primary,Low Sperm Count,IVF,273545,3,No,Partial,2021
+P0072,Male,42,Pune,Ruby Hall Clinic,Secondary,Obstruction,IUI,71070,1,Yes,Full,2023
+P0073,Female,45,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IVF,225637,2,No,Partial,2024
+P0074,Male,45,Chennai,Apollo Hospital,Secondary,Low Motility,IVF,195479,2,Yes,Full,2023
+P0075,Male,36,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,IUI,76011,2,Yes,Partial,2025
+P0076,Male,39,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Medication,46700,2,Yes,None,2022
+P0077,Female,27,Hyderabad,Yashoda Hospital,Primary,Endometriosis,IVF,293447,2,No,Full,2025
+P0078,Male,37,Mumbai,Fortis Hospital,Primary,Hormonal Imbalance,IVF,192310,3,No,Partial,2025
+P0079,Male,35,Hyderabad,Yashoda Hospital,Primary,Varicocele,IUI,73967,1,No,Partial,2024
+P0080,Male,25,Kolkata,AMRI Hospital,Primary,Infection,Medication,40357,2,Yes,Partial,2024
+P0081,Male,35,Bangalore,Manipal Hospital,Primary,Genetic Factors,Surgery,194943,1,Yes,None,2022
+P0082,Female,39,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,IUI,76451,2,No,Partial,2023
+P0083,Male,38,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,Medication,32599,2,No,None,2024
+P0084,Male,36,Delhi,Max Hospital,Primary,Low Motility,IVF,201104,3,No,Full,2024
+P0085,Male,43,Bangalore,Manipal Hospital,Secondary,Low Motility,IUI,92856,2,Yes,Full,2023
+P0086,Female,35,Mumbai,Fortis Hospital,Primary,Endometriosis,Medication,52924,1,Yes,Partial,2023
+P0087,Female,29,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,IUI,90095,1,No,None,2024
+P0088,Female,33,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,Surgery,141687,1,Yes,None,2022
+P0089,Female,34,Chennai,Apollo Hospital,Primary,Endometriosis,IVF,225538,2,Yes,None,2023
+P0090,Male,29,Chennai,Apollo Hospital,Primary,Genetic Factors,IUI,91445,1,No,None,2021
+P0091,Male,29,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,54179,2,Yes,Full,2023
+P0092,Male,37,Mumbai,Fortis Hospital,Primary,Genetic Factors,IUI,76305,1,No,Full,2025
+P0093,Male,40,Bangalore,Manipal Hospital,Primary,Low Motility,IUI,77615,2,Yes,None,2022
+P0094,Female,24,Mumbai,Fortis Hospital,Secondary,Endometriosis,IUI,90329,2,Yes,Partial,2022
+P0095,Male,32,Bangalore,Manipal Hospital,Primary,Genetic Factors,IUI,76230,1,Yes,Partial,2024
+P0096,Male,39,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,Medication,46539,1,No,Full,2022
+P0097,Female,38,Pune,Ruby Hall Clinic,Primary,Endometriosis,Medication,40949,1,No,Full,2025
+P0098,Male,33,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,42214,1,Yes,Partial,2025
+P0099,Male,32,Delhi,Max Hospital,Primary,Low Sperm Count,IVF,264400,3,No,Partial,2023
+P0100,Male,28,Bangalore,Manipal Hospital,Primary,Low Motility,Medication,36782,2,Yes,Full,2024
+P0101,Female,37,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Medication,48777,2,No,Full,2025
+P0102,Male,45,Pune,Ruby Hall Clinic,Primary,Obstruction,IUI,85557,1,Yes,None,2024
+P0103,Male,38,Kolkata,AMRI Hospital,Secondary,Obstruction,IVF,265536,3,No,Partial,2025
+P0104,Female,31,Chennai,Apollo Hospital,Secondary,Endometriosis,Medication,35974,2,Yes,Full,2025
+P0105,Female,31,Delhi,Max Hospital,Primary,Endometriosis,Medication,55664,2,No,None,2023
+P0106,Male,32,Kolkata,AMRI Hospital,Secondary,Infection,IUI,72459,1,No,Full,2022
+P0107,Female,35,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,Surgery,175616,1,No,Full,2020
+P0108,Female,31,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,IUI,73373,2,Yes,Full,2024
+P0109,Male,28,Bangalore,Manipal Hospital,Primary,Low Sperm Count,IVF,189489,3,No,Partial,2025
+P0110,Female,34,Kolkata,AMRI Hospital,Secondary,Unexplained Infertility,IUI,86920,1,Yes,None,2025
+P0111,Female,44,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,Surgery,158804,1,Yes,Full,2023
+P0112,Male,28,Bangalore,Manipal Hospital,Primary,Low Sperm Count,Medication,50770,1,No,None,2024
+P0113,Male,25,Pune,Ruby Hall Clinic,Primary,Varicocele,IVF,264951,3,No,Full,2020
+P0114,Female,44,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,Surgery,156119,1,No,Full,2025
+P0115,Male,30,Delhi,Max Hospital,Secondary,Varicocele,Surgery,178241,1,No,Full,2023
+P0116,Male,40,Delhi,Max Hospital,Secondary,Low Motility,Surgery,172575,1,Yes,Full,2021
+P0117,Female,44,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Medication,42890,2,Yes,None,2022
+P0118,Female,30,Pune,Ruby Hall Clinic,Primary,Endometriosis,IUI,78588,1,No,None,2024
+P0119,Male,36,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IVF,276830,2,Yes,None,2020
+P0120,Male,34,Hyderabad,Yashoda Hospital,Primary,Obstruction,Surgery,166038,1,Yes,Full,2022
+P0121,Male,29,Kolkata,AMRI Hospital,Secondary,Low Motility,Medication,37387,2,Yes,None,2023
+P0122,Male,38,Kolkata,AMRI Hospital,Primary,Low Sperm Count,Surgery,141207,1,Yes,Partial,2020
+P0123,Female,27,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,IUI,78372,1,Yes,None,2023
+P0124,Female,25,Chennai,Apollo Hospital,Primary,Ovulation Disorder,Medication,48109,1,Yes,Full,2023
+P0125,Male,42,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,Surgery,147138,1,No,None,2025
+P0126,Male,45,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,IUI,88211,1,Yes,None,2021
+P0127,Female,26,Kolkata,AMRI Hospital,Secondary,Advanced Maternal Age,Medication,33112,1,Yes,None,2025
+P0128,Male,35,Hyderabad,Yashoda Hospital,Primary,Low Motility,Medication,30462,1,No,None,2025
+P0129,Male,31,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,IUI,88209,2,No,None,2020
+P0130,Female,27,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,IUI,87149,1,Yes,Partial,2025
+P0131,Female,28,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,Medication,58017,2,Yes,Partial,2020
+P0132,Female,32,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Surgery,183629,1,No,Partial,2020
+P0133,Female,38,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,Medication,47472,2,No,Full,2025
+P0134,Male,29,Bangalore,Manipal Hospital,Primary,Infection,Surgery,160617,1,Yes,None,2023
+P0135,Female,38,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Surgery,160281,1,No,Full,2024
+P0136,Male,45,Delhi,Max Hospital,Primary,Obstruction,IVF,237574,2,Yes,Partial,2023
+P0137,Female,45,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,IUI,78122,1,Yes,Full,2024
+P0138,Male,34,Bangalore,Manipal Hospital,Secondary,Obstruction,Surgery,159376,1,Yes,None,2024
+P0139,Female,40,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IVF,214331,2,No,Partial,2025
+P0140,Female,38,Chennai,Apollo Hospital,Primary,Endometriosis,IUI,86785,2,Yes,Partial,2021
+P0141,Male,26,Mumbai,Fortis Hospital,Secondary,Infection,IUI,83697,2,Yes,None,2022
+P0142,Female,31,Mumbai,Fortis Hospital,Secondary,Endometriosis,Medication,40230,2,Yes,Full,2021
+P0143,Male,31,Chennai,Apollo Hospital,Primary,Varicocele,Medication,57594,1,No,Full,2025
+P0144,Female,30,Kolkata,AMRI Hospital,Secondary,Endometriosis,IVF,286552,2,Yes,None,2021
+P0145,Female,25,Chennai,Apollo Hospital,Primary,Ovulation Disorder,Surgery,183824,1,No,None,2025
+P0146,Male,39,Chennai,Apollo Hospital,Primary,Infection,Medication,36963,2,No,Full,2024
+P0147,Female,41,Bangalore,Manipal Hospital,Primary,Endometriosis,Medication,55756,1,No,None,2023
+P0148,Female,34,Delhi,Max Hospital,Secondary,Advanced Maternal Age,Surgery,187147,1,No,None,2020
+P0149,Female,42,Mumbai,Fortis Hospital,Secondary,PCOS,IUI,82160,1,Yes,Partial,2023
+P0150,Male,25,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,IUI,76769,2,Yes,Full,2024
+P0151,Male,35,Chennai,Apollo Hospital,Primary,Low Motility,IVF,208762,2,Yes,Partial,2023
+P0152,Male,45,Pune,Ruby Hall Clinic,Primary,Genetic Factors,IVF,180669,3,No,Partial,2025
+P0153,Female,24,Hyderabad,Yashoda Hospital,Secondary,Ovulation Disorder,Medication,48626,2,No,Partial,2023
+P0154,Female,29,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,227583,2,Yes,Full,2020
+P0155,Male,29,Delhi,Max Hospital,Primary,Low Motility,Medication,51724,2,No,Full,2021
+P0156,Male,41,Bangalore,Manipal Hospital,Secondary,Infection,IVF,219484,3,No,Partial,2020
+P0157,Female,41,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,214042,2,Yes,None,2024
+P0158,Male,40,Chennai,Apollo Hospital,Primary,Varicocele,Medication,58960,2,No,Partial,2024
+P0159,Female,41,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,166884,1,Yes,None,2021
+P0160,Male,37,Delhi,Max Hospital,Secondary,Low Sperm Count,Medication,39328,1,Yes,Partial,2021
+P0161,Male,35,Hyderabad,Yashoda Hospital,Secondary,Infection,Medication,58493,1,Yes,Full,2025
+P0162,Female,34,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,Medication,59928,1,No,Partial,2025
+P0163,Female,34,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,Medication,58274,2,No,Partial,2023
+P0164,Female,42,Delhi,Max Hospital,Primary,Ovulation Disorder,IUI,87442,2,No,None,2022
+P0165,Male,27,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,Medication,34733,2,Yes,Full,2025
+P0166,Female,35,Chennai,Apollo Hospital,Secondary,PCOS,Surgery,143583,1,No,Full,2021
+P0167,Female,25,Bangalore,Manipal Hospital,Primary,Endometriosis,IVF,264569,2,Yes,None,2021
+P0168,Male,25,Delhi,Max Hospital,Primary,Hormonal Imbalance,Surgery,162607,1,Yes,Partial,2020
+P0169,Female,37,Bangalore,Manipal Hospital,Primary,Blocked Fallopian Tubes,IVF,281055,2,Yes,Full,2025
+P0170,Female,35,Bangalore,Manipal Hospital,Secondary,Advanced Maternal Age,Surgery,169764,1,Yes,None,2021
+P0171,Female,44,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,IUI,76857,1,No,Full,2020
+P0172,Male,38,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,Medication,33020,1,No,Partial,2025
+P0173,Female,27,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,IUI,82466,2,No,None,2022
+P0174,Female,44,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,241135,3,No,Partial,2025
+P0175,Male,42,Chennai,Apollo Hospital,Secondary,Low Sperm Count,IUI,83613,2,No,Full,2023
+P0176,Male,33,Kolkata,AMRI Hospital,Secondary,Infection,Surgery,198315,1,Yes,Full,2023
+P0177,Male,45,Mumbai,Fortis Hospital,Primary,Varicocele,Medication,37788,1,Yes,None,2025
+P0178,Male,42,Kolkata,AMRI Hospital,Secondary,Obstruction,IVF,242593,2,No,Partial,2020
+P0179,Female,38,Chennai,Apollo Hospital,Secondary,PCOS,Surgery,173853,1,Yes,Partial,2021
+P0180,Male,44,Bangalore,Manipal Hospital,Primary,Obstruction,IUI,88593,1,No,Partial,2024
+P0181,Female,43,Delhi,Max Hospital,Secondary,Ovulation Disorder,Medication,59798,1,Yes,Partial,2022
+P0182,Female,36,Hyderabad,Yashoda Hospital,Primary,PCOS,IVF,209258,3,Yes,None,2021
+P0183,Male,44,Pune,Ruby Hall Clinic,Primary,Infection,Medication,44021,1,No,None,2020
+P0184,Female,29,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,Medication,41668,2,No,Full,2023
+P0185,Male,40,Chennai,Apollo Hospital,Primary,Infection,Surgery,159427,1,Yes,None,2025
+P0186,Male,37,Bangalore,Manipal Hospital,Secondary,Varicocele,Surgery,148646,1,Yes,None,2024
+P0187,Male,33,Bangalore,Manipal Hospital,Secondary,Hormonal Imbalance,Medication,56752,2,No,Partial,2025
+P0188,Female,25,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IVF,202910,3,Yes,None,2025
+P0189,Female,26,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,93452,2,Yes,None,2025
+P0190,Female,41,Delhi,Max Hospital,Primary,PCOS,IUI,75618,1,No,Full,2024
+P0191,Female,43,Bangalore,Manipal Hospital,Secondary,Endometriosis,IVF,297210,2,No,Full,2022
+P0192,Female,26,Pune,Ruby Hall Clinic,Secondary,Ovulation Disorder,Medication,41011,1,Yes,Full,2020
+P0193,Male,42,Delhi,Max Hospital,Secondary,Varicocele,IVF,296464,3,No,Full,2023
+P0194,Female,34,Hyderabad,Yashoda Hospital,Primary,Ovulation Disorder,Medication,48068,2,Yes,None,2023
+P0195,Female,29,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,188840,1,No,Full,2024
+P0196,Female,37,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,Medication,53178,2,No,Partial,2022
+P0197,Male,40,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,Medication,58452,2,Yes,Full,2021
+P0198,Female,29,Pune,Ruby Hall Clinic,Secondary,PCOS,Surgery,186474,1,No,None,2022
+P0199,Male,42,Chennai,Apollo Hospital,Secondary,Genetic Factors,IUI,87589,2,No,None,2023
+P0200,Male,26,Delhi,Max Hospital,Secondary,Low Motility,Surgery,188205,1,Yes,None,2025
+P0201,Male,45,Chennai,Apollo Hospital,Secondary,Low Motility,IUI,88787,1,No,Partial,2020
+P0202,Male,24,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,Medication,46048,1,No,Full,2021
+P0203,Male,31,Hyderabad,Yashoda Hospital,Primary,Obstruction,Medication,49506,2,No,Full,2021
+P0204,Male,45,Bangalore,Manipal Hospital,Primary,Varicocele,Medication,38980,2,Yes,Partial,2020
+P0205,Female,39,Pune,Ruby Hall Clinic,Primary,Blocked Fallopian Tubes,IUI,71847,2,Yes,Partial,2020
+P0206,Female,39,Mumbai,Fortis Hospital,Primary,PCOS,IUI,88614,2,No,Partial,2020
+P0207,Female,36,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,Surgery,154446,1,No,Full,2022
+P0208,Male,39,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,37194,1,No,Full,2024
+P0209,Male,40,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,Surgery,174805,1,No,Partial,2024
+P0210,Female,34,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,Medication,31213,1,Yes,Full,2025
+P0211,Female,33,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,IVF,199178,2,Yes,Full,2023
+P0212,Female,38,Hyderabad,Yashoda Hospital,Primary,PCOS,Medication,44443,1,Yes,None,2021
+P0213,Female,34,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,IVF,215299,2,Yes,Partial,2020
+P0214,Male,39,Kolkata,AMRI Hospital,Primary,Low Sperm Count,IUI,91929,2,No,Partial,2024
+P0215,Male,30,Kolkata,AMRI Hospital,Primary,Varicocele,IVF,289933,2,Yes,Partial,2020
+P0216,Female,44,Kolkata,AMRI Hospital,Primary,Ovulation Disorder,Surgery,185342,1,No,None,2023
+P0217,Male,35,Mumbai,Fortis Hospital,Secondary,Genetic Factors,IUI,86161,1,No,Partial,2023
+P0218,Male,34,Chennai,Apollo Hospital,Secondary,Infection,Medication,51979,2,No,Partial,2024
+P0219,Female,31,Chennai,Apollo Hospital,Secondary,PCOS,IUI,87498,1,Yes,Partial,2022
+P0220,Female,39,Hyderabad,Yashoda Hospital,Secondary,Ovulation Disorder,Medication,37385,2,No,Partial,2024
+P0221,Female,32,Delhi,Max Hospital,Primary,Unexplained Infertility,IUI,87236,1,Yes,Full,2021
+P0222,Female,31,Pune,Ruby Hall Clinic,Secondary,PCOS,Surgery,140818,1,No,Full,2025
+P0223,Male,28,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IVF,274124,3,No,None,2022
+P0224,Female,37,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,IUI,86284,1,No,Full,2025
+P0225,Female,28,Hyderabad,Yashoda Hospital,Primary,PCOS,Surgery,171648,1,No,None,2025
+P0226,Female,42,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,Surgery,179867,1,Yes,Full,2025
+P0227,Female,45,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,Surgery,169721,1,No,None,2021
+P0228,Male,26,Pune,Ruby Hall Clinic,Secondary,Low Motility,Medication,43473,1,No,Full,2021
+P0229,Female,32,Pune,Ruby Hall Clinic,Primary,PCOS,Medication,47383,1,Yes,Partial,2022
+P0230,Female,26,Delhi,Max Hospital,Primary,Unexplained Infertility,IUI,91671,2,Yes,Partial,2022
+P0231,Female,41,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,Medication,55969,1,Yes,Partial,2020
+P0232,Male,31,Kolkata,AMRI Hospital,Secondary,Low Motility,IVF,289765,3,No,None,2024
+P0233,Female,30,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IVF,275098,3,Yes,Partial,2020
+P0234,Male,24,Bangalore,Manipal Hospital,Secondary,Obstruction,IUI,73112,2,No,Partial,2021
+P0235,Male,34,Pune,Ruby Hall Clinic,Secondary,Obstruction,IUI,89848,2,Yes,None,2025
+P0236,Male,27,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,IVF,183608,3,No,Partial,2021
+P0237,Female,41,Chennai,Apollo Hospital,Primary,Endometriosis,Surgery,187334,1,Yes,None,2024
+P0238,Female,30,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Medication,37701,1,Yes,Full,2024
+P0239,Male,25,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,IVF,259510,3,Yes,None,2022
+P0240,Female,31,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IUI,87814,1,Yes,Partial,2025
+P0241,Male,42,Mumbai,Fortis Hospital,Primary,Infection,IVF,213102,2,No,None,2021
+P0242,Female,42,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,IUI,83441,2,No,None,2020
+P0243,Male,38,Chennai,Apollo Hospital,Primary,Varicocele,Medication,55907,1,Yes,Full,2020
+P0244,Male,38,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,IVF,191744,3,Yes,Full,2021
+P0245,Male,39,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,IVF,238939,2,Yes,None,2023
+P0246,Female,41,Pune,Ruby Hall Clinic,Secondary,PCOS,IUI,86566,1,Yes,Full,2024
+P0247,Male,28,Delhi,Max Hospital,Secondary,Low Motility,IUI,77318,2,Yes,Partial,2024
+P0248,Male,42,Delhi,Max Hospital,Primary,Low Sperm Count,IUI,73134,1,Yes,None,2020
+P0249,Female,25,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,IVF,233585,2,No,None,2024
+P0250,Male,25,Chennai,Apollo Hospital,Primary,Low Sperm Count,Medication,41765,2,Yes,None,2025
+P0251,Female,36,Chennai,Apollo Hospital,Secondary,Endometriosis,IUI,84577,2,No,Partial,2025
+P0252,Female,27,Delhi,Max Hospital,Primary,Ovulation Disorder,Medication,56442,2,Yes,Partial,2022
+P0253,Female,30,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Medication,55965,2,Yes,Full,2020
+P0254,Female,42,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IVF,272928,3,No,None,2024
+P0255,Female,40,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,Medication,31621,2,Yes,Partial,2025
+P0256,Female,42,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IVF,268217,3,No,Partial,2021
+P0257,Female,28,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,IUI,94831,2,No,None,2024
+P0258,Male,32,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,59179,2,Yes,None,2023
+P0259,Male,40,Kolkata,AMRI Hospital,Primary,Low Sperm Count,Medication,43737,2,No,Partial,2024
+P0260,Male,38,Hyderabad,Yashoda Hospital,Secondary,Low Motility,IUI,90871,1,Yes,None,2020
+P0261,Male,30,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,43443,2,No,Partial,2025
+P0262,Male,24,Delhi,Max Hospital,Primary,Low Motility,IUI,74101,2,Yes,None,2021
+P0263,Male,41,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,IVF,273330,2,No,Partial,2020
+P0264,Male,37,Hyderabad,Yashoda Hospital,Primary,Low Sperm Count,Medication,53398,1,No,None,2024
+P0265,Male,24,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,IUI,73046,2,No,None,2021
+P0266,Male,32,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Medication,45083,2,No,Full,2025
+P0267,Female,24,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,IVF,183616,2,No,None,2022
+P0268,Male,31,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,IVF,237991,3,Yes,Partial,2021
+P0269,Male,44,Pune,Ruby Hall Clinic,Primary,Low Motility,IUI,75063,1,No,None,2024
+P0270,Female,26,Kolkata,AMRI Hospital,Secondary,PCOS,IVF,196551,3,Yes,None,2022
+P0271,Male,41,Hyderabad,Yashoda Hospital,Primary,Obstruction,IUI,86833,2,Yes,Full,2021
+P0272,Male,37,Chennai,Apollo Hospital,Secondary,Genetic Factors,Medication,52402,1,Yes,Full,2022
+P0273,Male,36,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IVF,266915,3,No,Full,2020
+P0274,Female,45,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,IVF,296696,2,Yes,Partial,2020
+P0275,Male,32,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Surgery,169043,1,No,Partial,2020
+P0276,Male,45,Bangalore,Manipal Hospital,Primary,Infection,Surgery,158510,1,Yes,Full,2022
+P0277,Male,31,Hyderabad,Yashoda Hospital,Secondary,Varicocele,IUI,82877,2,Yes,None,2020
+P0278,Female,37,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IVF,251527,2,No,None,2023
+P0279,Female,41,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IVF,273280,2,Yes,None,2023
+P0280,Female,31,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Medication,40952,2,Yes,Full,2023
+P0281,Male,37,Mumbai,Fortis Hospital,Secondary,Obstruction,Surgery,140506,1,Yes,Partial,2021
+P0282,Female,32,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,Medication,52813,2,Yes,None,2025
+P0283,Female,27,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,IVF,294604,3,No,None,2021
+P0284,Male,32,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,IUI,83591,1,No,None,2021
+P0285,Female,25,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,Surgery,178974,1,No,Full,2020
+P0286,Female,43,Delhi,Max Hospital,Secondary,Advanced Maternal Age,Medication,46155,1,No,Full,2023
+P0287,Female,33,Mumbai,Fortis Hospital,Secondary,Endometriosis,IUI,88949,1,No,Partial,2023
+P0288,Male,33,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,IVF,210493,2,Yes,Partial,2021
+P0289,Male,37,Pune,Ruby Hall Clinic,Secondary,Low Motility,IVF,222301,3,No,Full,2021
+P0290,Female,34,Mumbai,Fortis Hospital,Secondary,Unexplained Infertility,Surgery,198025,1,No,Partial,2020
+P0291,Female,45,Hyderabad,Yashoda Hospital,Primary,Endometriosis,IVF,227120,3,No,None,2021
+P0292,Female,36,Mumbai,Fortis Hospital,Secondary,PCOS,IUI,76612,1,No,Partial,2021
+P0293,Female,26,Delhi,Max Hospital,Primary,Endometriosis,IUI,82544,1,No,Full,2021
+P0294,Male,26,Delhi,Max Hospital,Secondary,Infection,Medication,31923,2,Yes,Full,2023
+P0295,Female,33,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IUI,85489,2,Yes,None,2023
+P0296,Female,43,Pune,Ruby Hall Clinic,Secondary,Blocked Fallopian Tubes,IUI,80555,2,No,Full,2025
+P0297,Male,29,Delhi,Max Hospital,Secondary,Hormonal Imbalance,IVF,240938,3,Yes,Full,2022
+P0298,Male,26,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,Medication,43312,1,No,Full,2025
+P0299,Female,28,Delhi,Max Hospital,Primary,Endometriosis,IVF,195501,3,Yes,Partial,2021
+P0300,Female,25,Mumbai,Fortis Hospital,Primary,Advanced Maternal Age,IUI,81197,1,No,Partial,2020
+P0301,Male,44,Chennai,Apollo Hospital,Secondary,Varicocele,Surgery,158956,1,No,Full,2023
+P0302,Female,39,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,IVF,250331,2,No,None,2020
+P0303,Female,31,Hyderabad,Yashoda Hospital,Secondary,Advanced Maternal Age,Surgery,142481,1,No,Full,2023
+P0304,Male,24,Delhi,Max Hospital,Secondary,Obstruction,Medication,36858,2,Yes,Full,2020
+P0305,Male,39,Hyderabad,Yashoda Hospital,Primary,Low Motility,IVF,204934,3,Yes,None,2022
+P0306,Male,35,Mumbai,Fortis Hospital,Secondary,Low Motility,Medication,55156,1,No,Full,2023
+P0307,Female,30,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,Surgery,188230,1,Yes,Full,2023
+P0308,Male,32,Bangalore,Manipal Hospital,Primary,Obstruction,Medication,59847,2,Yes,Partial,2020
+P0309,Male,43,Delhi,Max Hospital,Secondary,Hormonal Imbalance,IVF,273071,3,Yes,None,2023
+P0310,Male,26,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,Medication,33796,1,No,None,2020
+P0311,Female,30,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,IVF,242861,3,Yes,Partial,2023
+P0312,Male,27,Delhi,Max Hospital,Primary,Varicocele,IVF,279325,2,Yes,Partial,2021
+P0313,Female,41,Bangalore,Manipal Hospital,Primary,Blocked Fallopian Tubes,IVF,254787,3,Yes,None,2021
+P0314,Male,24,Kolkata,AMRI Hospital,Secondary,Varicocele,IVF,207414,2,No,Partial,2025
+P0315,Female,27,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,193412,1,No,Full,2020
+P0316,Female,30,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,Medication,53944,1,Yes,None,2021
+P0317,Male,27,Chennai,Apollo Hospital,Primary,Genetic Factors,IUI,87674,2,No,Full,2020
+P0318,Female,43,Delhi,Max Hospital,Primary,Advanced Maternal Age,IVF,201675,3,Yes,Full,2023
+P0319,Female,38,Pune,Ruby Hall Clinic,Primary,PCOS,Surgery,168782,1,Yes,None,2023
+P0320,Male,35,Pune,Ruby Hall Clinic,Primary,Varicocele,Medication,38592,1,Yes,Partial,2023
+P0321,Female,44,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,IVF,190859,3,No,Partial,2023
+P0322,Male,39,Kolkata,AMRI Hospital,Primary,Low Motility,Medication,58159,1,No,None,2021
+P0323,Male,31,Kolkata,AMRI Hospital,Primary,Low Motility,Surgery,154143,1,No,Partial,2020
+P0324,Male,30,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,IUI,91850,1,No,None,2022
+P0325,Male,32,Pune,Ruby Hall Clinic,Secondary,Low Motility,IUI,85173,2,Yes,Partial,2025
+P0326,Male,24,Mumbai,Fortis Hospital,Secondary,Obstruction,IVF,281551,3,Yes,Partial,2025
+P0327,Female,38,Bangalore,Manipal Hospital,Primary,Endometriosis,Medication,55068,1,Yes,Full,2022
+P0328,Female,39,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,Medication,50230,2,No,Partial,2020
+P0329,Female,24,Kolkata,AMRI Hospital,Secondary,Endometriosis,Surgery,188944,1,No,Full,2024
+P0330,Male,24,Chennai,Apollo Hospital,Secondary,Low Motility,Surgery,161466,1,No,Full,2024
+P0331,Female,37,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,Medication,47367,2,No,Partial,2020
+P0332,Male,33,Pune,Ruby Hall Clinic,Secondary,Low Motility,IUI,73285,2,No,Partial,2025
+P0333,Male,37,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,Medication,30746,2,Yes,Partial,2023
+P0334,Male,27,Delhi,Max Hospital,Secondary,Low Sperm Count,Medication,52411,1,Yes,Full,2023
+P0335,Male,37,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,IUI,73508,1,Yes,Full,2023
+P0336,Male,39,Mumbai,Fortis Hospital,Secondary,Hormonal Imbalance,Surgery,175428,1,Yes,None,2022
+P0337,Female,31,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Surgery,156689,1,No,Full,2023
+P0338,Female,35,Pune,Ruby Hall Clinic,Secondary,PCOS,IVF,220877,3,No,Partial,2020
+P0339,Female,42,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,196852,1,No,Full,2023
+P0340,Male,31,Kolkata,AMRI Hospital,Secondary,Low Motility,IUI,88125,1,Yes,Partial,2020
+P0341,Female,28,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,IUI,79060,1,Yes,None,2023
+P0342,Male,31,Chennai,Apollo Hospital,Primary,Varicocele,Medication,49178,1,Yes,Full,2023
+P0343,Male,37,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IUI,72839,1,Yes,Full,2025
+P0344,Male,33,Delhi,Max Hospital,Primary,Low Motility,Medication,32851,1,Yes,Full,2020
+P0345,Female,35,Kolkata,AMRI Hospital,Primary,PCOS,IVF,286696,2,No,None,2024
+P0346,Female,35,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,Medication,58150,2,Yes,None,2020
+P0347,Female,38,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,Medication,49990,1,No,Partial,2020
+P0348,Female,30,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,Surgery,198346,1,Yes,Partial,2023
+P0349,Female,36,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IUI,75022,1,Yes,Partial,2020
+P0350,Female,44,Hyderabad,Yashoda Hospital,Primary,PCOS,Surgery,163688,1,Yes,None,2023
+P0351,Male,41,Bangalore,Manipal Hospital,Primary,Hormonal Imbalance,Surgery,157545,1,Yes,None,2022
+P0352,Male,32,Delhi,Max Hospital,Primary,Low Motility,IVF,220227,3,No,None,2024
+P0353,Female,31,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,Medication,40733,1,No,Partial,2025
+P0354,Male,41,Pune,Ruby Hall Clinic,Primary,Infection,IUI,73377,1,Yes,None,2020
+P0355,Female,33,Mumbai,Fortis Hospital,Secondary,PCOS,Medication,50824,2,No,Full,2024
+P0356,Female,30,Mumbai,Fortis Hospital,Primary,Endometriosis,Medication,44246,2,No,Full,2022
+P0357,Male,36,Mumbai,Fortis Hospital,Secondary,Obstruction,Surgery,186731,1,No,Partial,2024
+P0358,Male,35,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,IUI,70652,1,Yes,Partial,2021
+P0359,Male,44,Hyderabad,Yashoda Hospital,Primary,Infection,Surgery,198432,1,Yes,Partial,2020
+P0360,Male,45,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,Medication,54650,2,Yes,Partial,2024
+P0361,Male,30,Bangalore,Manipal Hospital,Secondary,Infection,IUI,91770,2,No,Partial,2022
+P0362,Male,28,Delhi,Max Hospital,Primary,Low Sperm Count,IUI,71262,1,Yes,None,2025
+P0363,Female,33,Mumbai,Fortis Hospital,Primary,PCOS,IVF,211611,3,Yes,Partial,2025
+P0364,Female,36,Pune,Ruby Hall Clinic,Primary,PCOS,IVF,180096,3,No,Partial,2024
+P0365,Female,34,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,186537,1,Yes,Partial,2025
+P0366,Male,44,Pune,Ruby Hall Clinic,Primary,Infection,IVF,269556,3,No,Partial,2020
+P0367,Female,45,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,IVF,252630,3,Yes,Full,2025
+P0368,Male,30,Delhi,Max Hospital,Primary,Infection,IUI,89635,2,No,None,2021
+P0369,Male,25,Kolkata,AMRI Hospital,Secondary,Genetic Factors,Surgery,196144,1,No,Full,2022
+P0370,Male,38,Delhi,Max Hospital,Primary,Genetic Factors,Medication,34429,1,Yes,Full,2025
+P0371,Female,40,Kolkata,AMRI Hospital,Secondary,Endometriosis,Medication,44188,1,Yes,None,2021
+P0372,Male,42,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,Medication,55854,2,No,None,2021
+P0373,Male,32,Kolkata,AMRI Hospital,Secondary,Infection,IUI,77091,2,Yes,None,2024
+P0374,Female,38,Kolkata,AMRI Hospital,Secondary,PCOS,IUI,89737,1,Yes,Full,2021
+P0375,Female,41,Mumbai,Fortis Hospital,Secondary,Blocked Fallopian Tubes,Medication,59985,2,Yes,Full,2022
+P0376,Female,29,Kolkata,AMRI Hospital,Primary,Endometriosis,Surgery,151551,1,Yes,Partial,2023
+P0377,Male,33,Kolkata,AMRI Hospital,Primary,Genetic Factors,IVF,181306,2,No,None,2022
+P0378,Male,30,Delhi,Max Hospital,Secondary,Low Sperm Count,Surgery,160409,1,Yes,Partial,2025
+P0379,Female,40,Hyderabad,Yashoda Hospital,Primary,PCOS,Surgery,173171,1,No,None,2020
+P0380,Female,38,Kolkata,AMRI Hospital,Secondary,PCOS,Medication,53313,1,No,Partial,2022
+P0381,Male,29,Bangalore,Manipal Hospital,Secondary,Varicocele,IUI,84919,1,No,None,2024
+P0382,Male,30,Pune,Ruby Hall Clinic,Primary,Obstruction,Medication,47386,2,Yes,Partial,2022
+P0383,Female,36,Pune,Ruby Hall Clinic,Primary,Endometriosis,IUI,81741,1,No,None,2022
+P0384,Female,32,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,Medication,37504,1,Yes,Partial,2020
+P0385,Female,31,Mumbai,Fortis Hospital,Secondary,Endometriosis,Surgery,157596,1,No,Full,2025
+P0386,Male,24,Bangalore,Manipal Hospital,Primary,Obstruction,IUI,72351,2,No,Partial,2022
+P0387,Female,25,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,Surgery,197586,1,Yes,None,2024
+P0388,Female,32,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,IVF,201396,2,No,Partial,2022
+P0389,Female,42,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Surgery,176274,1,Yes,None,2023
+P0390,Female,35,Delhi,Max Hospital,Secondary,Endometriosis,IUI,93038,2,Yes,Full,2025
+P0391,Male,41,Bangalore,Manipal Hospital,Primary,Low Sperm Count,Surgery,140830,1,No,Full,2022
+P0392,Male,27,Mumbai,Fortis Hospital,Secondary,Genetic Factors,IUI,76483,1,No,None,2020
+P0393,Female,32,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,IVF,244256,2,Yes,None,2020
+P0394,Female,43,Hyderabad,Yashoda Hospital,Secondary,Ovulation Disorder,Medication,32661,2,No,Partial,2022
+P0395,Female,24,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,Medication,56833,2,No,Partial,2021
+P0396,Male,26,Chennai,Apollo Hospital,Secondary,Obstruction,IVF,210612,3,No,None,2024
+P0397,Female,34,Bangalore,Manipal Hospital,Primary,PCOS,IUI,88327,1,Yes,Full,2022
+P0398,Female,36,Bangalore,Manipal Hospital,Secondary,Endometriosis,IUI,74062,2,Yes,None,2022
+P0399,Female,39,Chennai,Apollo Hospital,Primary,Advanced Maternal Age,IUI,71189,1,Yes,Full,2023
+P0400,Male,44,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,Medication,34754,1,No,Partial,2025
+P0401,Female,40,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,IUI,85161,1,No,None,2022
+P0402,Female,32,Pune,Ruby Hall Clinic,Secondary,PCOS,Surgery,156399,1,Yes,None,2020
+P0403,Male,35,Kolkata,AMRI Hospital,Primary,Genetic Factors,Medication,50751,1,No,None,2022
+P0404,Male,44,Bangalore,Manipal Hospital,Primary,Infection,Medication,55883,2,No,Partial,2022
+P0405,Female,38,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,IVF,189175,3,No,Full,2024
+P0406,Female,41,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IVF,208394,3,Yes,None,2023
+P0407,Male,45,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,IVF,255901,3,Yes,Partial,2020
+P0408,Male,26,Pune,Ruby Hall Clinic,Primary,Genetic Factors,IUI,90483,1,Yes,Partial,2022
+P0409,Female,34,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Medication,54672,2,No,None,2023
+P0410,Male,32,Mumbai,Fortis Hospital,Secondary,Low Motility,Surgery,186198,1,No,Full,2020
+P0411,Male,33,Chennai,Apollo Hospital,Primary,Low Sperm Count,IVF,232578,3,No,Full,2023
+P0412,Female,38,Delhi,Max Hospital,Primary,Unexplained Infertility,Surgery,195351,1,Yes,Full,2024
+P0413,Female,29,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Surgery,191894,1,No,None,2025
+P0414,Male,36,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,IUI,77066,2,No,None,2022
+P0415,Male,28,Bangalore,Manipal Hospital,Secondary,Varicocele,Surgery,184481,1,Yes,Partial,2022
+P0416,Male,43,Delhi,Max Hospital,Secondary,Obstruction,Surgery,153437,1,Yes,Full,2024
+P0417,Female,33,Pune,Ruby Hall Clinic,Primary,Blocked Fallopian Tubes,IVF,249702,2,Yes,Full,2024
+P0418,Female,30,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IUI,89289,2,No,None,2023
+P0419,Male,45,Pune,Ruby Hall Clinic,Primary,Obstruction,Surgery,152629,1,Yes,Partial,2023
+P0420,Male,31,Mumbai,Fortis Hospital,Secondary,Infection,Surgery,193057,1,No,Partial,2025
+P0421,Female,34,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,IUI,94129,1,No,Partial,2020
+P0422,Female,25,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Medication,31475,1,Yes,Partial,2022
+P0423,Male,36,Chennai,Apollo Hospital,Primary,Low Sperm Count,Medication,35214,1,Yes,Partial,2021
+P0424,Male,38,Mumbai,Fortis Hospital,Secondary,Low Motility,IVF,230151,3,No,Partial,2020
+P0425,Female,29,Chennai,Apollo Hospital,Primary,Ovulation Disorder,Surgery,156446,1,Yes,Full,2025
+P0426,Male,36,Delhi,Max Hospital,Secondary,Varicocele,Medication,51174,2,No,Full,2025
+P0427,Female,40,Chennai,Apollo Hospital,Primary,Endometriosis,IUI,85132,2,Yes,Full,2022
+P0428,Male,33,Kolkata,AMRI Hospital,Primary,Infection,IUI,77821,2,No,None,2024
+P0429,Female,45,Delhi,Max Hospital,Secondary,PCOS,IVF,286722,3,Yes,Full,2024
+P0430,Female,28,Chennai,Apollo Hospital,Primary,Advanced Maternal Age,IVF,298916,3,No,Partial,2022
+P0431,Male,33,Pune,Ruby Hall Clinic,Primary,Infection,Surgery,181482,1,No,None,2025
+P0432,Female,42,Hyderabad,Yashoda Hospital,Primary,Unexplained Infertility,Surgery,160980,1,No,Full,2025
+P0433,Female,40,Chennai,Apollo Hospital,Primary,Unexplained Infertility,Medication,57678,1,No,None,2023
+P0434,Male,24,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,IVF,282493,3,Yes,Full,2025
+P0435,Male,38,Hyderabad,Yashoda Hospital,Primary,Varicocele,Surgery,190954,1,Yes,Full,2023
+P0436,Male,41,Pune,Ruby Hall Clinic,Secondary,Infection,Medication,35083,2,No,None,2023
+P0437,Female,41,Hyderabad,Yashoda Hospital,Primary,Endometriosis,IUI,79092,2,Yes,Full,2024
+P0438,Male,34,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IUI,88090,2,Yes,Partial,2020
+P0439,Male,29,Kolkata,AMRI Hospital,Secondary,Infection,Surgery,195730,1,No,None,2022
+P0440,Male,33,Hyderabad,Yashoda Hospital,Secondary,Infection,IUI,74053,1,Yes,None,2025
+P0441,Female,31,Chennai,Apollo Hospital,Secondary,PCOS,Medication,37614,1,Yes,None,2020
+P0442,Female,35,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,Medication,34318,2,No,Full,2020
+P0443,Male,24,Hyderabad,Yashoda Hospital,Secondary,Infection,IVF,202810,2,No,Full,2023
+P0444,Male,27,Kolkata,AMRI Hospital,Primary,Low Motility,IVF,226980,2,Yes,Full,2020
+P0445,Female,30,Hyderabad,Yashoda Hospital,Primary,Ovulation Disorder,IUI,86318,1,No,None,2022
+P0446,Male,36,Chennai,Apollo Hospital,Primary,Infection,Medication,48231,2,Yes,None,2021
+P0447,Female,37,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,190563,1,Yes,Partial,2023
+P0448,Female,24,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,283228,3,No,Partial,2022
+P0449,Male,24,Kolkata,AMRI Hospital,Secondary,Obstruction,IUI,90359,1,No,Full,2021
+P0450,Male,28,Hyderabad,Yashoda Hospital,Secondary,Obstruction,IVF,210239,2,No,None,2020
+P0451,Male,33,Mumbai,Fortis Hospital,Primary,Low Motility,IUI,80658,2,Yes,None,2025
+P0452,Male,30,Bangalore,Manipal Hospital,Secondary,Infection,Surgery,154680,1,Yes,Partial,2020
+P0453,Female,43,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,IUI,88755,2,No,Partial,2021
+P0454,Female,42,Hyderabad,Yashoda Hospital,Primary,Unexplained Infertility,Medication,32538,2,No,None,2023
+P0455,Female,36,Kolkata,AMRI Hospital,Primary,Endometriosis,Surgery,193586,1,Yes,Full,2022
+P0456,Female,41,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,IVF,206302,2,No,Partial,2021
+P0457,Female,30,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,IVF,219191,3,Yes,Partial,2020
+P0458,Male,34,Kolkata,AMRI Hospital,Secondary,Obstruction,Surgery,144777,1,Yes,Full,2023
+P0459,Male,27,Hyderabad,Yashoda Hospital,Secondary,Obstruction,IVF,239647,3,No,Full,2023
+P0460,Male,44,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,51171,2,Yes,Full,2021
+P0461,Male,37,Chennai,Apollo Hospital,Secondary,Infection,IUI,87666,2,No,Partial,2025
+P0462,Female,39,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,70841,2,No,None,2023
+P0463,Female,45,Delhi,Max Hospital,Primary,Unexplained Infertility,IUI,74273,1,Yes,Partial,2021
+P0464,Male,44,Mumbai,Fortis Hospital,Primary,Obstruction,IVF,226837,2,Yes,Full,2022
+P0465,Female,43,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Surgery,174970,1,No,Partial,2020
+P0466,Female,39,Kolkata,AMRI Hospital,Secondary,Unexplained Infertility,Surgery,171337,1,No,Full,2020
+P0467,Female,29,Kolkata,AMRI Hospital,Secondary,PCOS,IVF,224897,2,No,Full,2024
+P0468,Male,39,Kolkata,AMRI Hospital,Primary,Obstruction,Medication,58382,1,No,Partial,2022
+P0469,Female,25,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,Medication,45577,2,No,Full,2025
+P0470,Male,37,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,48707,2,Yes,Partial,2024
+P0471,Female,39,Delhi,Max Hospital,Primary,Advanced Maternal Age,IUI,77768,1,No,None,2021
+P0472,Female,44,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,Surgery,187498,1,No,Full,2025
+P0473,Male,26,Mumbai,Fortis Hospital,Primary,Low Motility,IVF,210127,3,No,Full,2025
+P0474,Female,40,Kolkata,AMRI Hospital,Primary,PCOS,Medication,33235,1,Yes,Full,2024
+P0475,Female,27,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IUI,90664,1,No,Partial,2020
+P0476,Male,33,Kolkata,AMRI Hospital,Primary,Obstruction,IUI,74967,2,Yes,Partial,2020
+P0477,Female,24,Pune,Ruby Hall Clinic,Secondary,PCOS,Surgery,163457,1,Yes,Partial,2023
+P0478,Female,24,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,165968,1,No,None,2022
+P0479,Male,45,Pune,Ruby Hall Clinic,Primary,Obstruction,Medication,50584,1,Yes,Full,2021
+P0480,Male,44,Delhi,Max Hospital,Primary,Infection,IUI,70286,1,Yes,Full,2021
+P0481,Female,36,Bangalore,Manipal Hospital,Secondary,PCOS,IVF,186611,3,No,None,2025
+P0482,Female,31,Pune,Ruby Hall Clinic,Primary,PCOS,IVF,284097,2,No,Partial,2024
+P0483,Male,24,Kolkata,AMRI Hospital,Primary,Infection,IUI,94089,1,No,Full,2024
+P0484,Male,25,Delhi,Max Hospital,Secondary,Genetic Factors,IUI,74490,2,No,Full,2022
+P0485,Male,42,Bangalore,Manipal Hospital,Secondary,Genetic Factors,IUI,77980,2,No,Partial,2022
+P0486,Male,27,Pune,Ruby Hall Clinic,Primary,Genetic Factors,Surgery,166140,1,No,Full,2025
+P0487,Female,42,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,Surgery,180737,1,No,None,2023
+P0488,Male,44,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,Medication,40410,1,No,None,2020
+P0489,Female,43,Bangalore,Manipal Hospital,Secondary,Endometriosis,Medication,57210,1,Yes,Partial,2020
+P0490,Female,40,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,Surgery,156843,1,Yes,Partial,2020
+P0491,Female,27,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,IVF,292527,3,Yes,Partial,2023
+P0492,Female,32,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,IVF,241986,2,No,Full,2021
+P0493,Female,32,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IUI,87820,2,No,Full,2024
+P0494,Female,31,Pune,Ruby Hall Clinic,Secondary,Endometriosis,Medication,37768,1,Yes,None,2024
+P0495,Male,39,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Medication,32676,2,No,Partial,2022
+P0496,Female,24,Kolkata,AMRI Hospital,Primary,Ovulation Disorder,Medication,49824,1,No,Partial,2022
+P0497,Male,24,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IVF,279136,3,Yes,Full,2023
+P0498,Male,44,Hyderabad,Yashoda Hospital,Primary,Low Motility,IVF,209142,3,Yes,Partial,2021
+P0499,Male,31,Kolkata,AMRI Hospital,Secondary,Obstruction,Medication,51104,2,Yes,None,2022
+P0500,Female,26,Mumbai,Fortis Hospital,Secondary,Endometriosis,IUI,74481,2,Yes,Full,2024
+P0501,Female,35,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,74803,1,No,Partial,2024
+P0502,Male,43,Hyderabad,Yashoda Hospital,Primary,Genetic Factors,IUI,77242,1,No,None,2023
+P0503,Female,36,Kolkata,AMRI Hospital,Secondary,Endometriosis,Medication,52375,2,No,Partial,2024
+P0504,Female,31,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,IUI,92867,1,Yes,None,2024
+P0505,Female,30,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,IVF,264612,3,No,None,2020
+P0506,Female,32,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,IUI,71387,1,Yes,None,2023
+P0507,Male,30,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,IVF,194482,2,Yes,Full,2025
+P0508,Female,36,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,IVF,248634,3,Yes,Full,2025
+P0509,Male,42,Pune,Ruby Hall Clinic,Primary,Varicocele,Medication,57787,2,No,None,2020
+P0510,Male,37,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,IVF,183381,2,Yes,Partial,2025
+P0511,Female,26,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,Surgery,180626,1,No,None,2021
+P0512,Male,28,Pune,Ruby Hall Clinic,Primary,Varicocele,Surgery,191822,1,Yes,None,2025
+P0513,Male,27,Delhi,Max Hospital,Secondary,Varicocele,IVF,224012,2,No,Partial,2025
+P0514,Female,35,Chennai,Apollo Hospital,Secondary,PCOS,IUI,93859,1,No,Partial,2020
+P0515,Female,44,Pune,Ruby Hall Clinic,Secondary,Blocked Fallopian Tubes,IVF,211639,2,Yes,Partial,2021
+P0516,Male,45,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,Surgery,189901,1,No,Full,2022
+P0517,Male,29,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,41710,1,Yes,Full,2022
+P0518,Male,34,Mumbai,Fortis Hospital,Secondary,Genetic Factors,Medication,56516,1,No,Partial,2024
+P0519,Male,24,Bangalore,Manipal Hospital,Primary,Obstruction,IUI,83842,1,Yes,None,2023
+P0520,Male,27,Chennai,Apollo Hospital,Primary,Low Motility,IVF,214933,3,No,Partial,2022
+P0521,Female,39,Hyderabad,Yashoda Hospital,Secondary,Ovulation Disorder,Surgery,153565,1,Yes,None,2020
+P0522,Male,25,Mumbai,Fortis Hospital,Primary,Obstruction,Medication,38901,1,No,None,2022
+P0523,Male,24,Pune,Ruby Hall Clinic,Secondary,Obstruction,Surgery,153882,1,No,Partial,2023
+P0524,Female,43,Hyderabad,Yashoda Hospital,Secondary,Advanced Maternal Age,Medication,38022,2,Yes,None,2024
+P0525,Male,30,Bangalore,Manipal Hospital,Primary,Infection,Medication,43991,1,Yes,None,2020
+P0526,Male,39,Delhi,Max Hospital,Primary,Low Motility,Medication,56073,2,Yes,Full,2020
+P0527,Male,36,Kolkata,AMRI Hospital,Secondary,Obstruction,Surgery,144684,1,No,Full,2020
+P0528,Male,34,Pune,Ruby Hall Clinic,Primary,Obstruction,IVF,211418,3,Yes,Full,2020
+P0529,Male,40,Mumbai,Fortis Hospital,Primary,Infection,Surgery,163487,1,No,None,2023
+P0530,Female,40,Bangalore,Manipal Hospital,Secondary,PCOS,IVF,259606,2,Yes,Partial,2025
+P0531,Male,25,Bangalore,Manipal Hospital,Primary,Low Sperm Count,Medication,57468,1,Yes,Partial,2024
+P0532,Female,28,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,Medication,45455,2,No,Partial,2022
+P0533,Female,31,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,IVF,251595,2,Yes,None,2023
+P0534,Female,27,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Surgery,188242,1,No,Partial,2020
+P0535,Female,43,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IVF,270900,3,No,None,2022
+P0536,Female,40,Pune,Ruby Hall Clinic,Secondary,Endometriosis,IUI,93012,2,Yes,Full,2024
+P0537,Male,33,Mumbai,Fortis Hospital,Primary,Obstruction,Surgery,158193,1,Yes,Partial,2021
+P0538,Male,35,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,IUI,71368,2,Yes,None,2022
+P0539,Female,28,Bangalore,Manipal Hospital,Secondary,PCOS,IUI,87682,1,No,None,2020
+P0540,Female,27,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IUI,91740,2,Yes,Full,2021
+P0541,Male,36,Kolkata,AMRI Hospital,Secondary,Infection,IUI,87371,2,No,Partial,2021
+P0542,Male,39,Kolkata,AMRI Hospital,Secondary,Infection,IVF,187174,2,No,Full,2021
+P0543,Female,45,Chennai,Apollo Hospital,Primary,Endometriosis,Medication,36201,1,Yes,Partial,2020
+P0544,Female,44,Delhi,Max Hospital,Primary,Endometriosis,IUI,80683,1,No,Full,2020
+P0545,Male,36,Kolkata,AMRI Hospital,Secondary,Obstruction,IUI,77563,1,Yes,Full,2023
+P0546,Male,28,Hyderabad,Yashoda Hospital,Primary,Infection,IVF,236965,3,Yes,Full,2022
+P0547,Female,26,Chennai,Apollo Hospital,Primary,Advanced Maternal Age,IUI,78450,1,No,None,2020
+P0548,Female,28,Mumbai,Fortis Hospital,Secondary,PCOS,IVF,299537,3,Yes,None,2022
+P0549,Female,43,Delhi,Max Hospital,Secondary,Endometriosis,IVF,228122,3,No,None,2025
+P0550,Male,40,Delhi,Max Hospital,Primary,Obstruction,Medication,35458,1,Yes,Partial,2023
+P0551,Female,38,Mumbai,Fortis Hospital,Primary,Endometriosis,Surgery,189339,1,No,Full,2020
+P0552,Female,31,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,IUI,77366,2,Yes,Partial,2022
+P0553,Male,41,Mumbai,Fortis Hospital,Primary,Obstruction,IVF,218473,3,No,None,2024
+P0554,Male,35,Delhi,Max Hospital,Secondary,Genetic Factors,IUI,78846,1,No,None,2020
+P0555,Female,42,Chennai,Apollo Hospital,Primary,Unexplained Infertility,IUI,75704,1,Yes,None,2022
+P0556,Female,31,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IUI,85695,1,Yes,None,2023
+P0557,Male,41,Kolkata,AMRI Hospital,Primary,Varicocele,IUI,75401,2,No,Partial,2021
+P0558,Female,33,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,Surgery,170566,1,Yes,Full,2025
+P0559,Male,43,Mumbai,Fortis Hospital,Primary,Genetic Factors,IVF,204915,3,Yes,None,2023
+P0560,Male,42,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,IUI,88499,1,No,None,2024
+P0561,Female,26,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,Surgery,159739,1,No,Full,2020
+P0562,Female,45,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Medication,45578,2,Yes,Partial,2022
+P0563,Female,33,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IVF,276934,2,Yes,Partial,2025
+P0564,Female,39,Hyderabad,Yashoda Hospital,Primary,Ovulation Disorder,Surgery,166103,1,No,Partial,2021
+P0565,Female,24,Delhi,Max Hospital,Secondary,Unexplained Infertility,IVF,294502,3,No,Full,2025
+P0566,Male,34,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,IVF,294949,3,No,Partial,2024
+P0567,Male,31,Kolkata,AMRI Hospital,Secondary,Low Motility,Medication,31345,2,Yes,Partial,2024
+P0568,Female,40,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,IVF,217131,3,No,Partial,2024
+P0569,Female,39,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,Medication,50163,1,Yes,Full,2021
+P0570,Female,32,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,IUI,90008,1,Yes,Partial,2022
+P0571,Female,40,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IVF,235435,2,No,Partial,2021
+P0572,Male,24,Bangalore,Manipal Hospital,Primary,Varicocele,IVF,272097,3,Yes,Full,2023
+P0573,Female,43,Pune,Ruby Hall Clinic,Primary,Endometriosis,Medication,36726,2,No,None,2024
+P0574,Male,38,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,Medication,58284,1,No,None,2024
+P0575,Male,41,Bangalore,Manipal Hospital,Secondary,Varicocele,Surgery,193421,1,No,None,2024
+P0576,Male,25,Chennai,Apollo Hospital,Secondary,Obstruction,Medication,34654,1,No,Full,2023
+P0577,Female,28,Hyderabad,Yashoda Hospital,Primary,Unexplained Infertility,IVF,274223,2,Yes,Full,2021
+P0578,Male,43,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Medication,30094,2,Yes,None,2022
+P0579,Female,44,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Surgery,184073,1,No,None,2025
+P0580,Female,28,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,Medication,55330,2,No,Partial,2023
+P0581,Female,30,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,Medication,56812,1,No,Partial,2024
+P0582,Male,36,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,Medication,50141,1,No,None,2020
+P0583,Male,35,Pune,Ruby Hall Clinic,Secondary,Infection,Surgery,182297,1,Yes,None,2022
+P0584,Male,27,Pune,Ruby Hall Clinic,Secondary,Varicocele,Medication,35966,1,No,Full,2022
+P0585,Female,26,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,81059,2,No,None,2021
+P0586,Male,42,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,IVF,255639,2,Yes,None,2025
+P0587,Female,29,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,IUI,82984,2,Yes,None,2024
+P0588,Male,39,Hyderabad,Yashoda Hospital,Primary,Low Sperm Count,Surgery,184455,1,No,None,2022
+P0589,Female,31,Kolkata,AMRI Hospital,Secondary,PCOS,IUI,82213,2,Yes,Full,2022
+P0590,Male,45,Chennai,Apollo Hospital,Primary,Low Sperm Count,Surgery,196188,1,Yes,Full,2024
+P0591,Male,27,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Surgery,152757,1,Yes,Full,2020
+P0592,Female,40,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IVF,194230,2,Yes,Partial,2022
+P0593,Female,36,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,IUI,75873,2,Yes,Partial,2025
+P0594,Male,25,Kolkata,AMRI Hospital,Primary,Low Motility,Medication,59066,1,Yes,Full,2025
+P0595,Male,38,Hyderabad,Yashoda Hospital,Primary,Genetic Factors,IVF,231224,3,Yes,Full,2025
+P0596,Male,43,Bangalore,Manipal Hospital,Secondary,Obstruction,Medication,35657,1,Yes,None,2023
+P0597,Male,25,Pune,Ruby Hall Clinic,Primary,Varicocele,Medication,43375,2,Yes,Full,2021
+P0598,Male,45,Pune,Ruby Hall Clinic,Primary,Genetic Factors,IUI,94483,2,Yes,Full,2025
+P0599,Female,34,Mumbai,Fortis Hospital,Secondary,Unexplained Infertility,Surgery,195443,1,No,Full,2025
+P0600,Male,24,Hyderabad,Yashoda Hospital,Primary,Varicocele,Medication,44477,1,Yes,None,2020
+P0601,Female,41,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Surgery,193408,1,Yes,Full,2023
+P0602,Male,37,Mumbai,Fortis Hospital,Secondary,Low Motility,Surgery,142658,1,Yes,None,2025
+P0603,Female,26,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,149456,1,No,Full,2020
+P0604,Female,33,Hyderabad,Yashoda Hospital,Primary,PCOS,Medication,39722,1,No,Partial,2020
+P0605,Female,27,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,IUI,81669,2,No,Partial,2023
+P0606,Male,25,Mumbai,Fortis Hospital,Secondary,Hormonal Imbalance,IVF,184615,2,Yes,Full,2021
+P0607,Male,42,Chennai,Apollo Hospital,Primary,Obstruction,Medication,51713,2,No,Full,2024
+P0608,Female,38,Delhi,Max Hospital,Secondary,Advanced Maternal Age,Surgery,170171,1,No,Full,2020
+P0609,Female,24,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,IUI,72768,1,No,Partial,2025
+P0610,Male,36,Pune,Ruby Hall Clinic,Primary,Infection,IUI,77370,2,Yes,Partial,2025
+P0611,Male,35,Hyderabad,Yashoda Hospital,Secondary,Infection,IUI,85184,2,No,Partial,2021
+P0612,Male,28,Pune,Ruby Hall Clinic,Secondary,Infection,Surgery,160724,1,No,Full,2024
+P0613,Female,33,Chennai,Apollo Hospital,Primary,Endometriosis,Surgery,196724,1,No,Full,2024
+P0614,Female,42,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,IVF,273558,2,No,None,2023
+P0615,Female,28,Delhi,Max Hospital,Secondary,Ovulation Disorder,IVF,272710,2,Yes,Full,2024
+P0616,Female,26,Chennai,Apollo Hospital,Primary,Advanced Maternal Age,IVF,266981,3,No,Partial,2024
+P0617,Female,29,Delhi,Max Hospital,Primary,Ovulation Disorder,IUI,80984,2,No,None,2022
+P0618,Female,32,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,Medication,48128,2,Yes,None,2023
+P0619,Male,45,Kolkata,AMRI Hospital,Secondary,Infection,Medication,52273,2,No,Partial,2020
+P0620,Male,34,Kolkata,AMRI Hospital,Primary,Low Sperm Count,Medication,32674,2,No,Partial,2020
+P0621,Female,26,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,Surgery,143386,1,No,Full,2024
+P0622,Female,31,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Medication,40983,1,No,Partial,2020
+P0623,Female,33,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IUI,71934,2,No,Full,2020
+P0624,Female,27,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,Surgery,146167,1,Yes,Full,2025
+P0625,Male,26,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Medication,46334,1,Yes,Full,2020
+P0626,Male,28,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,IVF,180269,3,Yes,Partial,2022
+P0627,Female,43,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,IUI,81856,1,Yes,Full,2023
+P0628,Male,24,Delhi,Max Hospital,Primary,Low Sperm Count,IUI,81728,2,No,Partial,2021
+P0629,Male,34,Chennai,Apollo Hospital,Secondary,Infection,IUI,88880,1,Yes,None,2022
+P0630,Male,40,Mumbai,Fortis Hospital,Secondary,Varicocele,Medication,43229,2,Yes,Partial,2020
+P0631,Female,31,Delhi,Max Hospital,Secondary,Unexplained Infertility,Surgery,161156,1,Yes,Full,2020
+P0632,Female,45,Kolkata,AMRI Hospital,Secondary,Endometriosis,Medication,50151,2,Yes,Partial,2023
+P0633,Male,40,Mumbai,Fortis Hospital,Secondary,Obstruction,Medication,44150,1,No,Partial,2022
+P0634,Male,42,Bangalore,Manipal Hospital,Primary,Hormonal Imbalance,IVF,180704,3,No,Full,2024
+P0635,Female,35,Delhi,Max Hospital,Primary,Advanced Maternal Age,Medication,58479,2,Yes,None,2025
+P0636,Female,24,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,150602,1,Yes,Partial,2021
+P0637,Female,24,Chennai,Apollo Hospital,Primary,PCOS,IUI,75987,1,No,None,2020
+P0638,Female,35,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,Medication,32134,1,No,Partial,2025
+P0639,Male,42,Pune,Ruby Hall Clinic,Secondary,Infection,IVF,221491,3,No,Full,2025
+P0640,Female,37,Pune,Ruby Hall Clinic,Secondary,PCOS,Medication,32720,1,Yes,None,2020
+P0641,Male,39,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Surgery,141644,1,No,Partial,2025
+P0642,Female,26,Hyderabad,Yashoda Hospital,Secondary,Advanced Maternal Age,Medication,37895,2,Yes,None,2023
+P0643,Female,38,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,171217,1,No,Partial,2021
+P0644,Male,37,Kolkata,AMRI Hospital,Secondary,Genetic Factors,Medication,32903,2,Yes,None,2020
+P0645,Female,32,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Medication,45985,2,Yes,None,2020
+P0646,Male,42,Pune,Ruby Hall Clinic,Primary,Genetic Factors,Medication,57696,1,Yes,None,2025
+P0647,Male,38,Pune,Ruby Hall Clinic,Primary,Varicocele,IVF,268291,3,No,None,2023
+P0648,Male,44,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,30235,2,No,Partial,2024
+P0649,Male,39,Chennai,Apollo Hospital,Primary,Infection,IVF,215163,2,No,Partial,2025
+P0650,Female,31,Pune,Ruby Hall Clinic,Primary,Blocked Fallopian Tubes,IVF,254201,2,Yes,None,2020
+P0651,Male,24,Bangalore,Manipal Hospital,Secondary,Genetic Factors,IUI,85879,1,Yes,Partial,2025
+P0652,Male,39,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IUI,88699,1,Yes,Partial,2022
+P0653,Male,36,Hyderabad,Yashoda Hospital,Primary,Infection,Surgery,196104,1,No,None,2022
+P0654,Male,27,Hyderabad,Yashoda Hospital,Primary,Genetic Factors,IUI,94135,1,No,Partial,2024
+P0655,Male,25,Bangalore,Manipal Hospital,Primary,Varicocele,Medication,58266,1,Yes,Partial,2020
+P0656,Female,40,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,Surgery,180354,1,Yes,Full,2025
+P0657,Male,26,Bangalore,Manipal Hospital,Primary,Obstruction,Medication,47373,2,No,Full,2025
+P0658,Male,35,Pune,Ruby Hall Clinic,Secondary,Infection,Surgery,189335,1,Yes,Full,2025
+P0659,Female,36,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,79486,2,Yes,Full,2021
+P0660,Male,45,Chennai,Apollo Hospital,Primary,Varicocele,IVF,192523,2,No,None,2021
+P0661,Male,39,Hyderabad,Yashoda Hospital,Secondary,Low Sperm Count,IUI,73045,1,No,Partial,2020
+P0662,Female,28,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,IUI,70764,2,No,None,2021
+P0663,Male,41,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IVF,252878,3,No,None,2024
+P0664,Male,32,Chennai,Apollo Hospital,Primary,Varicocele,Surgery,178996,1,No,Partial,2025
+P0665,Male,43,Hyderabad,Yashoda Hospital,Primary,Low Motility,IVF,216022,2,Yes,Full,2021
+P0666,Female,28,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,IUI,72490,1,No,None,2021
+P0667,Male,26,Chennai,Apollo Hospital,Secondary,Low Motility,Surgery,147402,1,Yes,Partial,2025
+P0668,Male,31,Hyderabad,Yashoda Hospital,Primary,Low Motility,Surgery,171330,1,No,Full,2025
+P0669,Male,35,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,Surgery,146289,1,Yes,Full,2022
+P0670,Female,29,Kolkata,AMRI Hospital,Primary,Endometriosis,Medication,38512,1,No,None,2022
+P0671,Male,24,Bangalore,Manipal Hospital,Primary,Genetic Factors,Surgery,193957,1,Yes,Partial,2023
+P0672,Female,32,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,IVF,258659,2,No,Full,2022
+P0673,Female,41,Chennai,Apollo Hospital,Primary,PCOS,IUI,80556,2,Yes,Partial,2022
+P0674,Male,25,Pune,Ruby Hall Clinic,Secondary,Varicocele,Surgery,185452,1,Yes,None,2024
+P0675,Male,36,Kolkata,AMRI Hospital,Secondary,Obstruction,Surgery,189072,1,No,Partial,2021
+P0676,Female,37,Pune,Ruby Hall Clinic,Primary,Blocked Fallopian Tubes,IUI,91241,2,Yes,Full,2023
+P0677,Male,33,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,42986,1,No,None,2020
+P0678,Male,34,Chennai,Apollo Hospital,Secondary,Low Motility,Medication,33305,2,Yes,Partial,2023
+P0679,Male,44,Mumbai,Fortis Hospital,Primary,Infection,Surgery,171127,1,Yes,Full,2021
+P0680,Male,38,Kolkata,AMRI Hospital,Secondary,Obstruction,Surgery,192147,1,Yes,Partial,2022
+P0681,Male,31,Delhi,Max Hospital,Secondary,Low Motility,Surgery,158909,1,No,Full,2021
+P0682,Male,40,Bangalore,Manipal Hospital,Primary,Varicocele,IUI,89756,2,Yes,None,2021
+P0683,Male,24,Kolkata,AMRI Hospital,Secondary,Genetic Factors,IVF,206227,3,No,None,2023
+P0684,Female,32,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,IVF,230917,3,No,Full,2022
+P0685,Female,43,Bangalore,Manipal Hospital,Primary,PCOS,IVF,194045,3,No,None,2021
+P0686,Male,39,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,Medication,59234,2,No,Full,2024
+P0687,Male,37,Chennai,Apollo Hospital,Secondary,Infection,IUI,89090,1,Yes,Full,2021
+P0688,Female,44,Kolkata,AMRI Hospital,Secondary,PCOS,IUI,82901,1,Yes,None,2022
+P0689,Female,30,Pune,Ruby Hall Clinic,Secondary,PCOS,Medication,46064,2,Yes,Partial,2020
+P0690,Male,45,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,Medication,48903,1,No,None,2024
+P0691,Female,42,Delhi,Max Hospital,Primary,Endometriosis,Medication,35050,1,No,Partial,2023
+P0692,Male,26,Pune,Ruby Hall Clinic,Secondary,Varicocele,IUI,84083,2,No,None,2024
+P0693,Female,41,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IVF,264525,3,Yes,None,2021
+P0694,Male,40,Chennai,Apollo Hospital,Primary,Low Motility,IVF,263077,2,Yes,Full,2024
+P0695,Male,42,Chennai,Apollo Hospital,Secondary,Low Motility,Medication,45541,2,Yes,Full,2021
+P0696,Female,43,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Medication,51319,2,Yes,Partial,2025
+P0697,Male,41,Chennai,Apollo Hospital,Primary,Obstruction,IVF,226811,2,No,Full,2020
+P0698,Male,37,Kolkata,AMRI Hospital,Primary,Low Motility,IVF,284383,2,Yes,Full,2022
+P0699,Female,29,Pune,Ruby Hall Clinic,Secondary,PCOS,IVF,261358,2,Yes,None,2020
+P0700,Male,44,Delhi,Max Hospital,Primary,Infection,Surgery,157260,1,No,Partial,2020
+P0701,Male,36,Hyderabad,Yashoda Hospital,Secondary,Obstruction,IVF,194324,3,Yes,Full,2024
+P0702,Male,36,Pune,Ruby Hall Clinic,Secondary,Infection,IUI,85671,2,No,Partial,2025
+P0703,Female,26,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,IUI,94293,2,No,Partial,2021
+P0704,Female,35,Pune,Ruby Hall Clinic,Primary,PCOS,IVF,244556,2,Yes,None,2024
+P0705,Male,45,Delhi,Max Hospital,Primary,Low Sperm Count,IVF,282004,3,Yes,Partial,2021
+P0706,Female,36,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,Surgery,159437,1,No,Full,2021
+P0707,Male,36,Hyderabad,Yashoda Hospital,Secondary,Low Motility,Medication,49099,1,No,Partial,2024
+P0708,Female,28,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,IUI,92282,1,Yes,None,2022
+P0709,Male,38,Mumbai,Fortis Hospital,Secondary,Low Motility,IUI,93081,1,Yes,None,2024
+P0710,Female,39,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,Medication,45000,2,No,None,2022
+P0711,Female,26,Mumbai,Fortis Hospital,Primary,PCOS,Surgery,154850,1,Yes,Partial,2023
+P0712,Female,43,Kolkata,AMRI Hospital,Primary,PCOS,Surgery,155071,1,Yes,None,2025
+P0713,Male,43,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,IVF,210105,3,No,None,2020
+P0714,Male,24,Bangalore,Manipal Hospital,Primary,Obstruction,Surgery,171628,1,Yes,Full,2021
+P0715,Male,39,Bangalore,Manipal Hospital,Primary,Infection,IVF,205093,2,No,Full,2020
+P0716,Female,34,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,198386,1,Yes,Partial,2020
+P0717,Male,42,Pune,Ruby Hall Clinic,Primary,Varicocele,IVF,243586,2,No,Partial,2023
+P0718,Female,40,Pune,Ruby Hall Clinic,Secondary,Ovulation Disorder,IVF,250330,2,Yes,Partial,2023
+P0719,Male,45,Kolkata,AMRI Hospital,Primary,Low Motility,Medication,55805,2,No,Partial,2021
+P0720,Male,40,Hyderabad,Yashoda Hospital,Primary,Low Motility,IVF,291491,3,Yes,Full,2022
+P0721,Male,37,Bangalore,Manipal Hospital,Secondary,Hormonal Imbalance,Surgery,161042,1,No,Partial,2024
+P0722,Male,24,Kolkata,AMRI Hospital,Primary,Infection,IVF,280686,2,No,None,2024
+P0723,Male,29,Bangalore,Manipal Hospital,Primary,Hormonal Imbalance,Medication,44802,2,No,Partial,2023
+P0724,Male,38,Hyderabad,Yashoda Hospital,Primary,Obstruction,Medication,49160,1,No,None,2024
+P0725,Male,33,Delhi,Max Hospital,Primary,Low Sperm Count,IUI,91789,2,Yes,Partial,2021
+P0726,Female,39,Hyderabad,Yashoda Hospital,Primary,Endometriosis,Medication,44742,2,No,Partial,2021
+P0727,Female,44,Chennai,Apollo Hospital,Secondary,Endometriosis,IVF,247183,2,Yes,Full,2020
+P0728,Female,41,Mumbai,Fortis Hospital,Secondary,Endometriosis,IUI,80792,2,No,Partial,2022
+P0729,Male,38,Kolkata,AMRI Hospital,Primary,Obstruction,Surgery,177469,1,Yes,Partial,2023
+P0730,Female,45,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,Medication,36241,2,Yes,Full,2020
+P0731,Female,30,Chennai,Apollo Hospital,Primary,Ovulation Disorder,IUI,93147,1,No,Partial,2025
+P0732,Female,26,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,IVF,185830,3,No,Partial,2025
+P0733,Female,42,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,Surgery,151117,1,No,None,2022
+P0734,Male,44,Pune,Ruby Hall Clinic,Primary,Infection,Surgery,189309,1,No,None,2021
+P0735,Male,30,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IVF,189598,3,Yes,None,2023
+P0736,Male,34,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Medication,50395,2,Yes,Partial,2024
+P0737,Female,35,Bangalore,Manipal Hospital,Secondary,Endometriosis,Surgery,190726,1,No,None,2021
+P0738,Male,37,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Medication,34777,2,Yes,Full,2025
+P0739,Male,24,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,Surgery,191944,1,No,Partial,2021
+P0740,Male,24,Chennai,Apollo Hospital,Secondary,Varicocele,Surgery,147240,1,No,None,2025
+P0741,Female,26,Pune,Ruby Hall Clinic,Secondary,Blocked Fallopian Tubes,Surgery,163677,1,Yes,None,2022
+P0742,Male,29,Kolkata,AMRI Hospital,Secondary,Infection,IVF,222466,2,Yes,Full,2024
+P0743,Male,34,Hyderabad,Yashoda Hospital,Secondary,Varicocele,Surgery,197666,1,Yes,Partial,2024
+P0744,Male,24,Chennai,Apollo Hospital,Secondary,Obstruction,Medication,50690,2,No,None,2023
+P0745,Female,43,Pune,Ruby Hall Clinic,Primary,Endometriosis,Medication,33093,2,No,None,2022
+P0746,Male,33,Pune,Ruby Hall Clinic,Secondary,Infection,Medication,51362,1,No,Full,2023
+P0747,Female,28,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,IVF,282679,2,Yes,Full,2022
+P0748,Female,45,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Medication,56590,1,No,None,2021
+P0749,Male,43,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,Medication,38795,1,No,None,2024
+P0750,Male,29,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,Surgery,141857,1,No,Partial,2025
+P0751,Female,33,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,Medication,38527,2,Yes,Full,2020
+P0752,Female,43,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Surgery,142447,1,Yes,Partial,2021
+P0753,Female,36,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,Medication,42921,1,Yes,None,2022
+P0754,Male,38,Pune,Ruby Hall Clinic,Primary,Genetic Factors,IUI,85682,1,No,Full,2024
+P0755,Male,25,Hyderabad,Yashoda Hospital,Primary,Obstruction,IVF,212840,2,Yes,None,2021
+P0756,Female,25,Mumbai,Fortis Hospital,Secondary,PCOS,Surgery,186338,1,No,Partial,2021
+P0757,Male,40,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,Surgery,169472,1,No,Full,2025
+P0758,Male,45,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IVF,267099,2,Yes,Partial,2024
+P0759,Male,42,Chennai,Apollo Hospital,Primary,Infection,IVF,192188,2,Yes,Full,2024
+P0760,Male,40,Bangalore,Manipal Hospital,Secondary,Obstruction,Surgery,178671,1,Yes,Full,2024
+P0761,Female,26,Kolkata,AMRI Hospital,Secondary,Endometriosis,Surgery,146675,1,Yes,None,2020
+P0762,Female,31,Delhi,Max Hospital,Primary,Ovulation Disorder,Surgery,199468,1,Yes,Full,2023
+P0763,Female,38,Chennai,Apollo Hospital,Secondary,PCOS,Surgery,161338,1,No,None,2025
+P0764,Female,34,Delhi,Max Hospital,Secondary,Unexplained Infertility,IVF,219245,3,Yes,None,2020
+P0765,Male,30,Delhi,Max Hospital,Secondary,Low Motility,IVF,268408,2,No,Partial,2020
+P0766,Male,34,Pune,Ruby Hall Clinic,Primary,Obstruction,Medication,58701,1,Yes,Partial,2025
+P0767,Female,30,Delhi,Max Hospital,Primary,Endometriosis,Surgery,150770,1,Yes,Full,2025
+P0768,Male,41,Delhi,Max Hospital,Secondary,Obstruction,Medication,50350,2,Yes,Partial,2020
+P0769,Female,32,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Surgery,141563,1,No,None,2024
+P0770,Female,26,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IUI,71042,2,Yes,Full,2020
+P0771,Male,45,Kolkata,AMRI Hospital,Secondary,Varicocele,Medication,32052,1,No,Partial,2023
+P0772,Male,27,Chennai,Apollo Hospital,Secondary,Obstruction,Medication,30513,2,No,None,2023
+P0773,Female,44,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IUI,71894,2,No,None,2025
+P0774,Female,30,Mumbai,Fortis Hospital,Secondary,Blocked Fallopian Tubes,Medication,33957,2,No,Partial,2025
+P0775,Male,26,Mumbai,Fortis Hospital,Primary,Genetic Factors,Surgery,170471,1,No,Full,2023
+P0776,Female,45,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,IUI,73795,1,Yes,None,2021
+P0777,Male,25,Pune,Ruby Hall Clinic,Secondary,Low Motility,Surgery,169883,1,Yes,Partial,2022
+P0778,Male,40,Delhi,Max Hospital,Primary,Genetic Factors,IVF,189530,3,Yes,Full,2023
+P0779,Male,41,Delhi,Max Hospital,Secondary,Low Sperm Count,Surgery,153379,1,No,Full,2025
+P0780,Female,37,Chennai,Apollo Hospital,Primary,PCOS,IVF,251201,2,No,None,2021
+P0781,Female,40,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,Medication,58651,1,No,Full,2022
+P0782,Female,30,Chennai,Apollo Hospital,Primary,Advanced Maternal Age,IUI,70771,2,No,None,2022
+P0783,Male,44,Hyderabad,Yashoda Hospital,Primary,Low Motility,Medication,50351,1,No,Full,2022
+P0784,Female,39,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IVF,219608,3,Yes,None,2025
+P0785,Male,45,Mumbai,Fortis Hospital,Secondary,Varicocele,IVF,237371,3,No,Full,2020
+P0786,Male,26,Chennai,Apollo Hospital,Primary,Infection,IUI,81024,2,No,Partial,2022
+P0787,Female,36,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IUI,73774,1,Yes,Full,2020
+P0788,Male,39,Hyderabad,Yashoda Hospital,Primary,Varicocele,IVF,182096,2,No,Partial,2020
+P0789,Female,31,Pune,Ruby Hall Clinic,Secondary,Ovulation Disorder,IUI,75392,1,Yes,None,2024
+P0790,Female,32,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,IUI,71645,2,No,Full,2024
+P0791,Female,36,Delhi,Max Hospital,Primary,Advanced Maternal Age,IVF,237363,2,Yes,Full,2025
+P0792,Female,41,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,Medication,56646,2,No,Full,2021
+P0793,Female,39,Delhi,Max Hospital,Secondary,PCOS,IVF,203098,2,Yes,Partial,2024
+P0794,Male,26,Delhi,Max Hospital,Secondary,Obstruction,IUI,70631,1,Yes,Partial,2020
+P0795,Male,42,Hyderabad,Yashoda Hospital,Secondary,Obstruction,IUI,75994,1,Yes,None,2021
+P0796,Female,35,Delhi,Max Hospital,Secondary,PCOS,Medication,56066,1,No,Partial,2020
+P0797,Female,37,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IUI,75973,2,Yes,Partial,2020
+P0798,Male,32,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,Medication,56347,2,Yes,Full,2020
+P0799,Female,29,Kolkata,AMRI Hospital,Primary,Ovulation Disorder,IVF,234114,3,Yes,Full,2022
+P0800,Female,33,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,258519,2,No,Full,2024
+P0801,Male,32,Bangalore,Manipal Hospital,Secondary,Hormonal Imbalance,IVF,265551,3,Yes,None,2023
+P0802,Female,38,Kolkata,AMRI Hospital,Primary,PCOS,IUI,81555,1,Yes,None,2021
+P0803,Male,33,Delhi,Max Hospital,Primary,Low Motility,Surgery,173399,1,No,None,2020
+P0804,Male,33,Chennai,Apollo Hospital,Primary,Obstruction,IUI,92405,1,No,None,2021
+P0805,Male,29,Mumbai,Fortis Hospital,Secondary,Infection,Surgery,155703,1,Yes,Partial,2020
+P0806,Male,24,Bangalore,Manipal Hospital,Primary,Obstruction,IUI,91558,1,No,Partial,2021
+P0807,Female,25,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,IUI,81133,2,No,Partial,2025
+P0808,Male,34,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,Medication,49339,2,Yes,None,2024
+P0809,Female,28,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IVF,239416,2,No,Partial,2025
+P0810,Female,42,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,IUI,82423,2,No,None,2022
+P0811,Female,32,Kolkata,AMRI Hospital,Secondary,Unexplained Infertility,IVF,264512,2,Yes,Partial,2024
+P0812,Male,37,Kolkata,AMRI Hospital,Primary,Low Motility,Surgery,180339,1,No,Partial,2024
+P0813,Male,26,Kolkata,AMRI Hospital,Secondary,Varicocele,Medication,43360,2,Yes,Full,2022
+P0814,Female,32,Delhi,Max Hospital,Primary,Advanced Maternal Age,IVF,217984,3,Yes,None,2025
+P0815,Female,34,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,IVF,245838,3,No,Partial,2025
+P0816,Male,45,Kolkata,AMRI Hospital,Primary,Obstruction,Medication,52603,1,Yes,Partial,2023
+P0817,Female,38,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,IUI,71327,1,No,Partial,2025
+P0818,Female,34,Mumbai,Fortis Hospital,Secondary,Blocked Fallopian Tubes,IUI,73719,1,No,Partial,2020
+P0819,Male,43,Kolkata,AMRI Hospital,Secondary,Genetic Factors,IVF,203673,3,No,Partial,2024
+P0820,Female,41,Pune,Ruby Hall Clinic,Primary,Endometriosis,IVF,261718,3,No,Partial,2024
+P0821,Female,37,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,IVF,232861,3,Yes,None,2023
+P0822,Male,42,Chennai,Apollo Hospital,Secondary,Varicocele,IVF,287297,2,No,Partial,2021
+P0823,Male,43,Hyderabad,Yashoda Hospital,Primary,Obstruction,Medication,39793,2,Yes,Full,2023
+P0824,Male,35,Mumbai,Fortis Hospital,Primary,Obstruction,IUI,77464,1,No,None,2021
+P0825,Male,25,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,IVF,202507,2,No,Partial,2024
+P0826,Female,39,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,IVF,246988,3,Yes,None,2022
+P0827,Female,28,Chennai,Apollo Hospital,Primary,Ovulation Disorder,IVF,207273,3,No,None,2020
+P0828,Female,34,Pune,Ruby Hall Clinic,Secondary,Endometriosis,Medication,45704,2,No,Full,2020
+P0829,Female,38,Hyderabad,Yashoda Hospital,Secondary,Unexplained Infertility,IVF,257031,3,No,None,2020
+P0830,Male,43,Mumbai,Fortis Hospital,Secondary,Obstruction,IUI,92349,2,No,None,2023
+P0831,Male,30,Kolkata,AMRI Hospital,Primary,Obstruction,IVF,279619,2,No,None,2021
+P0832,Female,44,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,Medication,38344,1,Yes,Full,2022
+P0833,Female,41,Pune,Ruby Hall Clinic,Secondary,PCOS,IUI,78712,1,No,Full,2020
+P0834,Male,32,Mumbai,Fortis Hospital,Primary,Low Sperm Count,Surgery,182054,1,Yes,Partial,2021
+P0835,Female,42,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,Medication,55178,2,No,Full,2024
+P0836,Male,27,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IVF,260470,3,No,Full,2022
+P0837,Male,32,Kolkata,AMRI Hospital,Primary,Varicocele,Surgery,155736,1,No,Partial,2023
+P0838,Female,26,Mumbai,Fortis Hospital,Secondary,PCOS,Surgery,163553,1,Yes,Partial,2023
+P0839,Male,41,Chennai,Apollo Hospital,Secondary,Low Motility,Surgery,167297,1,No,None,2020
+P0840,Female,24,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IUI,76031,1,No,Partial,2025
+P0841,Male,34,Chennai,Apollo Hospital,Secondary,Obstruction,IVF,269437,2,Yes,Full,2021
+P0842,Male,31,Delhi,Max Hospital,Secondary,Varicocele,Medication,53970,1,No,Partial,2024
+P0843,Female,34,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,Medication,40434,2,No,Partial,2021
+P0844,Female,40,Mumbai,Fortis Hospital,Secondary,Blocked Fallopian Tubes,Surgery,158355,1,Yes,None,2021
+P0845,Female,36,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,Medication,53317,1,No,None,2025
+P0846,Male,25,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Medication,44091,2,No,Partial,2024
+P0847,Female,29,Delhi,Max Hospital,Primary,Unexplained Infertility,Medication,39969,1,No,Full,2024
+P0848,Male,40,Bangalore,Manipal Hospital,Primary,Genetic Factors,IVF,267913,2,No,None,2025
+P0849,Female,25,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,Surgery,174589,1,Yes,Partial,2024
+P0850,Male,31,Mumbai,Fortis Hospital,Primary,Low Sperm Count,Surgery,172187,1,Yes,None,2022
+P0851,Female,28,Mumbai,Fortis Hospital,Primary,PCOS,Surgery,153555,1,Yes,Partial,2021
+P0852,Male,44,Pune,Ruby Hall Clinic,Secondary,Infection,Surgery,188669,1,No,Full,2024
+P0853,Female,33,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,IVF,235701,2,No,None,2021
+P0854,Female,28,Bangalore,Manipal Hospital,Primary,PCOS,Surgery,198967,1,No,None,2020
+P0855,Male,41,Hyderabad,Yashoda Hospital,Secondary,Infection,Medication,33929,2,No,Full,2021
+P0856,Male,38,Pune,Ruby Hall Clinic,Primary,Obstruction,IVF,237053,2,No,Full,2025
+P0857,Male,39,Pune,Ruby Hall Clinic,Secondary,Infection,Surgery,140484,1,Yes,None,2025
+P0858,Female,27,Pune,Ruby Hall Clinic,Secondary,Endometriosis,IVF,289522,2,No,None,2022
+P0859,Female,42,Hyderabad,Yashoda Hospital,Primary,Ovulation Disorder,IVF,283608,2,No,None,2021
+P0860,Male,34,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,Surgery,146443,1,Yes,Full,2020
+P0861,Male,33,Chennai,Apollo Hospital,Primary,Genetic Factors,Medication,39311,1,Yes,Partial,2024
+P0862,Female,45,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,Surgery,180618,1,No,Partial,2022
+P0863,Female,31,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Medication,42109,1,Yes,Full,2021
+P0864,Female,41,Chennai,Apollo Hospital,Primary,Ovulation Disorder,IVF,234081,3,Yes,None,2025
+P0865,Male,24,Delhi,Max Hospital,Primary,Obstruction,Surgery,157779,1,No,None,2022
+P0866,Male,32,Mumbai,Fortis Hospital,Primary,Varicocele,Surgery,189456,1,No,None,2020
+P0867,Male,28,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Surgery,161216,1,Yes,Partial,2023
+P0868,Male,42,Mumbai,Fortis Hospital,Primary,Low Sperm Count,Surgery,197769,1,Yes,Partial,2023
+P0869,Female,33,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,IVF,253143,3,No,None,2022
+P0870,Male,39,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,Surgery,153672,1,Yes,None,2024
+P0871,Female,29,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,Surgery,157936,1,Yes,Partial,2024
+P0872,Male,29,Pune,Ruby Hall Clinic,Secondary,Low Sperm Count,Surgery,146322,1,Yes,Partial,2021
+P0873,Female,29,Pune,Ruby Hall Clinic,Secondary,PCOS,Medication,44884,1,Yes,Full,2020
+P0874,Male,27,Mumbai,Fortis Hospital,Primary,Varicocele,Surgery,177510,1,Yes,None,2024
+P0875,Male,35,Chennai,Apollo Hospital,Primary,Genetic Factors,IUI,72768,2,No,Full,2020
+P0876,Male,28,Hyderabad,Yashoda Hospital,Secondary,Low Sperm Count,IVF,254239,3,Yes,Full,2023
+P0877,Male,45,Mumbai,Fortis Hospital,Primary,Genetic Factors,IVF,206734,2,No,None,2024
+P0878,Male,31,Delhi,Max Hospital,Secondary,Low Motility,IVF,190434,2,No,Full,2022
+P0879,Male,35,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,Medication,31638,2,No,Full,2025
+P0880,Female,43,Delhi,Max Hospital,Primary,Unexplained Infertility,Surgery,147795,1,Yes,Partial,2022
+P0881,Male,35,Kolkata,AMRI Hospital,Secondary,Low Motility,Medication,51102,1,No,Full,2021
+P0882,Female,34,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,IUI,84662,2,Yes,Full,2023
+P0883,Female,29,Chennai,Apollo Hospital,Secondary,Endometriosis,Surgery,140165,1,Yes,None,2025
+P0884,Male,38,Hyderabad,Yashoda Hospital,Primary,Low Sperm Count,Surgery,165225,1,Yes,Full,2020
+P0885,Female,27,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,Surgery,142058,1,Yes,Full,2024
+P0886,Female,35,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,Medication,33037,2,No,Partial,2021
+P0887,Female,25,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,IVF,257248,2,No,None,2020
+P0888,Female,38,Mumbai,Fortis Hospital,Secondary,Endometriosis,Medication,40512,2,No,None,2022
+P0889,Female,28,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,Medication,57856,1,No,Full,2025
+P0890,Female,40,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,IVF,240723,3,No,Partial,2024
+P0891,Female,31,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Medication,39141,2,No,Full,2021
+P0892,Male,26,Delhi,Max Hospital,Secondary,Obstruction,IUI,71370,1,Yes,None,2024
+P0893,Female,42,Mumbai,Fortis Hospital,Secondary,PCOS,IVF,250574,3,No,Partial,2021
+P0894,Male,40,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,IUI,74235,2,No,Partial,2021
+P0895,Female,25,Delhi,Max Hospital,Primary,Unexplained Infertility,Surgery,158345,1,Yes,Partial,2023
+P0896,Male,32,Mumbai,Fortis Hospital,Secondary,Infection,Surgery,155146,1,Yes,Full,2022
+P0897,Female,30,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,IVF,183146,2,No,Full,2020
+P0898,Male,28,Pune,Ruby Hall Clinic,Primary,Infection,IVF,299466,2,No,None,2023
+P0899,Male,42,Chennai,Apollo Hospital,Primary,Obstruction,IUI,93731,1,No,None,2020
+P0900,Female,38,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,Surgery,144878,1,Yes,Partial,2021
+P0901,Male,41,Pune,Ruby Hall Clinic,Primary,Varicocele,IUI,93787,1,No,Partial,2020
+P0902,Female,30,Bangalore,Manipal Hospital,Primary,Blocked Fallopian Tubes,IUI,84388,2,Yes,Partial,2024
+P0903,Male,28,Chennai,Apollo Hospital,Primary,Obstruction,Surgery,164065,1,No,Partial,2025
+P0904,Male,28,Delhi,Max Hospital,Secondary,Obstruction,IVF,215821,2,Yes,None,2024
+P0905,Female,26,Delhi,Max Hospital,Secondary,Endometriosis,IVF,240982,3,Yes,None,2020
+P0906,Female,38,Pune,Ruby Hall Clinic,Primary,PCOS,IVF,214891,2,No,None,2024
+P0907,Male,39,Mumbai,Fortis Hospital,Secondary,Obstruction,IUI,89050,1,Yes,Full,2021
+P0908,Female,37,Hyderabad,Yashoda Hospital,Secondary,PCOS,Medication,56185,2,Yes,None,2021
+P0909,Female,29,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IUI,75952,2,No,None,2022
+P0910,Female,40,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,Surgery,155648,1,Yes,Full,2020
+P0911,Female,28,Pune,Ruby Hall Clinic,Secondary,Endometriosis,IUI,93197,2,Yes,Full,2025
+P0912,Female,43,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,Surgery,192895,1,No,None,2020
+P0913,Female,40,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,IVF,248717,3,No,Full,2021
+P0914,Female,26,Delhi,Max Hospital,Primary,PCOS,Surgery,196099,1,No,Full,2020
+P0915,Male,24,Kolkata,AMRI Hospital,Secondary,Varicocele,IVF,262096,2,Yes,None,2022
+P0916,Male,34,Bangalore,Manipal Hospital,Primary,Obstruction,IVF,280403,2,No,None,2023
+P0917,Male,28,Delhi,Max Hospital,Secondary,Hormonal Imbalance,IVF,185254,2,No,Full,2022
+P0918,Female,30,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,Medication,37683,2,No,Partial,2021
+P0919,Female,31,Delhi,Max Hospital,Secondary,Unexplained Infertility,IVF,204143,2,No,None,2025
+P0920,Female,38,Delhi,Max Hospital,Secondary,Ovulation Disorder,Medication,42735,2,Yes,None,2022
+P0921,Female,26,Kolkata,AMRI Hospital,Secondary,Endometriosis,IUI,77171,1,No,None,2024
+P0922,Female,24,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,Medication,31052,2,No,Full,2023
+P0923,Female,37,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IUI,91738,1,Yes,None,2024
+P0924,Male,29,Bangalore,Manipal Hospital,Secondary,Hormonal Imbalance,Surgery,196103,1,Yes,Partial,2025
+P0925,Female,27,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,172772,1,No,None,2021
+P0926,Male,33,Bangalore,Manipal Hospital,Primary,Hormonal Imbalance,Medication,57690,1,No,None,2021
+P0927,Female,24,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,IVF,241745,3,No,None,2020
+P0928,Female,24,Bangalore,Manipal Hospital,Secondary,Advanced Maternal Age,Medication,59947,1,Yes,None,2025
+P0929,Male,41,Pune,Ruby Hall Clinic,Primary,Infection,Medication,34218,1,Yes,None,2023
+P0930,Male,44,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,46152,1,No,None,2023
+P0931,Female,39,Delhi,Max Hospital,Primary,Ovulation Disorder,IUI,82298,2,Yes,Partial,2022
+P0932,Male,29,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,IUI,70648,1,No,Partial,2025
+P0933,Male,33,Pune,Ruby Hall Clinic,Primary,Varicocele,IUI,89528,1,No,Partial,2022
+P0934,Male,44,Delhi,Max Hospital,Primary,Low Sperm Count,IUI,78696,2,Yes,Full,2025
+P0935,Male,29,Pune,Ruby Hall Clinic,Secondary,Low Motility,Medication,50000,2,Yes,Partial,2025
+P0936,Female,27,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IUI,74095,2,No,Full,2024
+P0937,Male,37,Delhi,Max Hospital,Secondary,Obstruction,Surgery,162719,1,No,Partial,2024
+P0938,Female,30,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,IVF,220158,3,No,None,2023
+P0939,Male,32,Mumbai,Fortis Hospital,Primary,Hormonal Imbalance,IVF,220343,2,No,None,2025
+P0940,Female,38,Chennai,Apollo Hospital,Primary,Ovulation Disorder,Surgery,149059,1,Yes,Full,2024
+P0941,Male,39,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,IUI,83022,2,Yes,None,2021
+P0942,Male,27,Mumbai,Fortis Hospital,Secondary,Low Motility,Surgery,160087,1,Yes,None,2024
+P0943,Female,45,Chennai,Apollo Hospital,Secondary,Endometriosis,IVF,291339,3,Yes,None,2023
+P0944,Male,33,Delhi,Max Hospital,Secondary,Low Sperm Count,IVF,210167,3,Yes,Full,2025
+P0945,Male,36,Delhi,Max Hospital,Secondary,Obstruction,Medication,38285,2,Yes,None,2024
+P0946,Female,29,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IUI,78687,2,Yes,Full,2023
+P0947,Male,40,Mumbai,Fortis Hospital,Primary,Hormonal Imbalance,Medication,58033,1,No,Partial,2020
+P0948,Female,29,Bangalore,Manipal Hospital,Secondary,Blocked Fallopian Tubes,Medication,46030,2,Yes,None,2021
+P0949,Male,36,Bangalore,Manipal Hospital,Secondary,Varicocele,IVF,251284,2,No,Full,2023
+P0950,Female,44,Pune,Ruby Hall Clinic,Secondary,Blocked Fallopian Tubes,Medication,37000,2,No,Full,2025
+P0951,Male,43,Delhi,Max Hospital,Secondary,Obstruction,Surgery,140354,1,No,None,2021
+P0952,Male,28,Hyderabad,Yashoda Hospital,Primary,Varicocele,IUI,94767,1,No,Full,2020
+P0953,Male,39,Hyderabad,Yashoda Hospital,Secondary,Infection,IUI,85492,1,No,Partial,2025
+P0954,Male,38,Bangalore,Manipal Hospital,Primary,Varicocele,IUI,76694,1,No,Partial,2021
+P0955,Male,43,Kolkata,AMRI Hospital,Primary,Obstruction,IVF,284517,2,Yes,Partial,2020
+P0956,Male,39,Bangalore,Manipal Hospital,Primary,Hormonal Imbalance,IUI,94965,1,No,Full,2023
+P0957,Male,45,Pune,Ruby Hall Clinic,Primary,Infection,Medication,42993,1,No,Full,2022
+P0958,Male,37,Kolkata,AMRI Hospital,Primary,Low Sperm Count,Surgery,164096,1,Yes,None,2024
+P0959,Female,36,Mumbai,Fortis Hospital,Secondary,PCOS,Surgery,156940,1,Yes,None,2021
+P0960,Male,37,Kolkata,AMRI Hospital,Primary,Genetic Factors,IVF,294668,2,Yes,Partial,2023
+P0961,Female,35,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IVF,213009,2,No,None,2024
+P0962,Male,27,Pune,Ruby Hall Clinic,Primary,Infection,IVF,181693,2,No,None,2022
+P0963,Female,37,Delhi,Max Hospital,Primary,PCOS,IVF,294188,3,No,Full,2022
+P0964,Female,28,Pune,Ruby Hall Clinic,Primary,Unexplained Infertility,Medication,38074,2,No,Partial,2024
+P0965,Male,43,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,IVF,282969,3,No,Partial,2023
+P0966,Female,24,Bangalore,Manipal Hospital,Primary,Endometriosis,Surgery,156571,1,Yes,None,2021
+P0967,Female,36,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,Medication,37053,2,Yes,Full,2022
+P0968,Male,34,Mumbai,Fortis Hospital,Primary,Obstruction,Surgery,181770,1,No,Partial,2022
+P0969,Male,36,Pune,Ruby Hall Clinic,Primary,Varicocele,IUI,77308,1,No,None,2021
+P0970,Female,41,Delhi,Max Hospital,Secondary,Ovulation Disorder,Medication,45341,1,Yes,Full,2024
+P0971,Female,35,Pune,Ruby Hall Clinic,Secondary,Ovulation Disorder,IVF,262944,2,No,Partial,2025
+P0972,Male,31,Mumbai,Fortis Hospital,Secondary,Hormonal Imbalance,IUI,87540,1,Yes,Partial,2022
+P0973,Male,33,Pune,Ruby Hall Clinic,Primary,Varicocele,IUI,87407,2,Yes,None,2021
+P0974,Female,43,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Medication,50906,1,Yes,None,2023
+P0975,Male,32,Hyderabad,Yashoda Hospital,Primary,Obstruction,Surgery,163520,1,No,Full,2023
+P0976,Female,38,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,IVF,270168,2,Yes,Partial,2022
+P0977,Male,30,Pune,Ruby Hall Clinic,Secondary,Hormonal Imbalance,IUI,90440,2,No,None,2022
+P0978,Female,34,Delhi,Max Hospital,Secondary,Advanced Maternal Age,IVF,248215,2,Yes,None,2021
+P0979,Male,28,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,Surgery,140534,1,No,Full,2025
+P0980,Male,35,Delhi,Max Hospital,Secondary,Low Sperm Count,Medication,45441,1,Yes,None,2022
+P0981,Male,35,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,Surgery,177827,1,No,None,2025
+P0982,Female,38,Bangalore,Manipal Hospital,Primary,Blocked Fallopian Tubes,Surgery,146138,1,Yes,None,2021
+P0983,Female,30,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,Surgery,183016,1,No,Partial,2020
+P0984,Female,39,Kolkata,AMRI Hospital,Primary,PCOS,IVF,182675,3,No,Partial,2022
+P0985,Male,41,Kolkata,AMRI Hospital,Secondary,Varicocele,IVF,254206,3,No,None,2023
+P0986,Male,35,Hyderabad,Yashoda Hospital,Primary,Varicocele,Medication,55172,1,No,Partial,2024
+P0987,Male,26,Delhi,Max Hospital,Primary,Low Motility,IVF,212242,2,Yes,None,2021
+P0988,Female,30,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,IVF,207991,2,Yes,Full,2022
+P0989,Female,32,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,IVF,228478,3,Yes,None,2020
+P0990,Male,32,Bangalore,Manipal Hospital,Primary,Genetic Factors,IUI,81644,2,No,None,2021
+P0991,Male,39,Chennai,Apollo Hospital,Primary,Low Sperm Count,IVF,266620,2,Yes,Partial,2024
+P0992,Female,24,Kolkata,AMRI Hospital,Primary,Endometriosis,IUI,81163,2,No,Partial,2021
+P0993,Female,29,Kolkata,AMRI Hospital,Primary,Blocked Fallopian Tubes,IVF,240160,2,Yes,None,2025
+P0994,Female,29,Pune,Ruby Hall Clinic,Primary,Endometriosis,IVF,180184,2,No,Partial,2020
+P0995,Female,36,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,Surgery,182911,1,Yes,Partial,2020
+P0996,Female,29,Delhi,Max Hospital,Primary,Endometriosis,IVF,271255,2,No,Full,2022
+P0997,Male,39,Kolkata,AMRI Hospital,Primary,Low Motility,Medication,56735,1,No,Full,2025
+P0998,Male,45,Pune,Ruby Hall Clinic,Primary,Infection,IUI,81293,1,No,None,2022
+P0999,Female,42,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IVF,225800,3,Yes,Full,2025
+P1000,Female,45,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,IVF,295704,2,No,Full,2022
+P1001,Male,42,Delhi,Max Hospital,Secondary,Obstruction,IUI,82293,1,Yes,Partial,2023
+P1002,Male,42,Delhi,Max Hospital,Primary,Low Sperm Count,Medication,40295,1,Yes,Full,2024
+P1003,Female,42,Bangalore,Manipal Hospital,Secondary,PCOS,IUI,82448,1,No,None,2024
+P1004,Male,33,Mumbai,Fortis Hospital,Primary,Low Sperm Count,Surgery,155378,1,Yes,Partial,2020
+P1005,Male,38,Delhi,Max Hospital,Secondary,Low Motility,IUI,80667,2,Yes,Partial,2022
+P1006,Male,38,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,IUI,85395,1,Yes,Partial,2024
+P1007,Female,31,Hyderabad,Yashoda Hospital,Primary,PCOS,IUI,78813,2,No,Partial,2025
+P1008,Female,33,Hyderabad,Yashoda Hospital,Secondary,Ovulation Disorder,IVF,261136,3,No,None,2023
+P1009,Male,43,Pune,Ruby Hall Clinic,Secondary,Varicocele,Medication,30263,1,No,Partial,2023
+P1010,Female,34,Mumbai,Fortis Hospital,Secondary,Unexplained Infertility,Surgery,198635,1,No,Partial,2021
+P1011,Male,31,Hyderabad,Yashoda Hospital,Primary,Obstruction,Medication,44741,1,Yes,Partial,2024
+P1012,Male,38,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,Surgery,166995,1,No,Full,2021
+P1013,Male,40,Delhi,Max Hospital,Secondary,Obstruction,Surgery,142769,1,No,None,2021
+P1014,Female,31,Mumbai,Fortis Hospital,Secondary,Endometriosis,IUI,80452,2,No,None,2025
+P1015,Male,41,Kolkata,AMRI Hospital,Secondary,Low Sperm Count,IVF,204606,2,No,None,2022
+P1016,Female,29,Hyderabad,Yashoda Hospital,Primary,Endometriosis,IVF,242005,3,Yes,None,2023
+P1017,Male,41,Delhi,Max Hospital,Primary,Hormonal Imbalance,IVF,265831,3,No,None,2020
+P1018,Male,33,Delhi,Max Hospital,Primary,Infection,Medication,52826,1,Yes,Full,2025
+P1019,Male,35,Mumbai,Fortis Hospital,Secondary,Low Sperm Count,IVF,221491,2,No,Full,2021
+P1020,Female,40,Kolkata,AMRI Hospital,Secondary,Ovulation Disorder,Surgery,156110,1,Yes,Full,2021
+P1021,Male,36,Mumbai,Fortis Hospital,Primary,Low Sperm Count,IUI,77616,2,No,None,2020
+P1022,Female,32,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,163110,1,Yes,Full,2022
+P1023,Male,25,Delhi,Max Hospital,Secondary,Varicocele,IUI,88760,1,Yes,None,2022
+P1024,Male,26,Hyderabad,Yashoda Hospital,Primary,Genetic Factors,Surgery,168376,1,Yes,Full,2021
+P1025,Male,34,Pune,Ruby Hall Clinic,Primary,Low Motility,Medication,57047,1,Yes,None,2023
+P1026,Male,40,Pune,Ruby Hall Clinic,Primary,Obstruction,Medication,46058,1,Yes,None,2023
+P1027,Female,33,Delhi,Max Hospital,Primary,Ovulation Disorder,IUI,77918,2,No,None,2022
+P1028,Female,38,Pune,Ruby Hall Clinic,Secondary,Endometriosis,Medication,53883,1,No,Full,2021
+P1029,Female,28,Delhi,Max Hospital,Primary,Ovulation Disorder,IVF,262245,2,Yes,Partial,2021
+P1030,Male,26,Mumbai,Fortis Hospital,Primary,Genetic Factors,Medication,31241,2,No,None,2025
+P1031,Female,40,Bangalore,Manipal Hospital,Secondary,PCOS,Medication,44111,1,No,None,2022
+P1032,Female,35,Kolkata,AMRI Hospital,Secondary,Advanced Maternal Age,IVF,201200,3,Yes,None,2021
+P1033,Female,45,Hyderabad,Yashoda Hospital,Secondary,Blocked Fallopian Tubes,IVF,203553,2,No,None,2020
+P1034,Female,43,Mumbai,Fortis Hospital,Secondary,Blocked Fallopian Tubes,IVF,210220,3,No,Partial,2023
+P1035,Male,26,Hyderabad,Yashoda Hospital,Secondary,Infection,Surgery,187451,1,Yes,None,2023
+P1036,Female,27,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Surgery,156562,1,Yes,Full,2021
+P1037,Male,25,Chennai,Apollo Hospital,Secondary,Varicocele,IUI,82244,1,Yes,None,2025
+P1038,Male,39,Pune,Ruby Hall Clinic,Primary,Hormonal Imbalance,IVF,228432,3,No,None,2023
+P1039,Male,38,Hyderabad,Yashoda Hospital,Primary,Hormonal Imbalance,Surgery,169825,1,No,Partial,2025
+P1040,Female,30,Kolkata,AMRI Hospital,Primary,Ovulation Disorder,IUI,82910,1,Yes,Partial,2025
+P1041,Female,41,Kolkata,AMRI Hospital,Primary,Ovulation Disorder,Surgery,195144,1,No,Full,2021
+P1042,Female,38,Mumbai,Fortis Hospital,Secondary,Unexplained Infertility,Surgery,198424,1,Yes,None,2023
+P1043,Female,32,Delhi,Max Hospital,Secondary,Advanced Maternal Age,Medication,34741,1,Yes,Partial,2021
+P1044,Male,39,Hyderabad,Yashoda Hospital,Secondary,Obstruction,IVF,230034,3,No,None,2021
+P1045,Female,30,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,IVF,277355,2,Yes,Full,2022
+P1046,Male,35,Bangalore,Manipal Hospital,Secondary,Hormonal Imbalance,Surgery,161969,1,Yes,Full,2021
+P1047,Female,42,Bangalore,Manipal Hospital,Primary,Endometriosis,Surgery,185100,1,Yes,Full,2024
+P1048,Male,34,Bangalore,Manipal Hospital,Primary,Varicocele,Surgery,197262,1,No,Full,2021
+P1049,Female,44,Bangalore,Manipal Hospital,Secondary,Advanced Maternal Age,Medication,55807,1,No,Partial,2021
+P1050,Male,26,Hyderabad,Yashoda Hospital,Secondary,Genetic Factors,IVF,292244,3,No,None,2020
+P1051,Male,24,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,Medication,55595,2,Yes,Partial,2025
+P1052,Male,24,Bangalore,Manipal Hospital,Primary,Infection,IVF,186837,3,No,Partial,2023
+P1053,Male,37,Pune,Ruby Hall Clinic,Secondary,Low Motility,IVF,233381,3,Yes,Full,2023
+P1054,Female,25,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IUI,88153,1,Yes,Full,2023
+P1055,Male,38,Delhi,Max Hospital,Secondary,Infection,IVF,204188,3,Yes,Partial,2024
+P1056,Female,39,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,Medication,52022,1,No,None,2022
+P1057,Male,25,Mumbai,Fortis Hospital,Primary,Low Motility,IVF,220514,3,No,None,2021
+P1058,Female,41,Chennai,Apollo Hospital,Primary,Unexplained Infertility,Surgery,191111,1,No,None,2023
+P1059,Male,40,Chennai,Apollo Hospital,Primary,Genetic Factors,Medication,34255,1,No,Partial,2023
+P1060,Female,37,Kolkata,AMRI Hospital,Primary,PCOS,IUI,86853,1,Yes,Partial,2022
+P1061,Male,40,Chennai,Apollo Hospital,Primary,Infection,IVF,282876,3,No,None,2022
+P1062,Male,25,Delhi,Max Hospital,Primary,Obstruction,IUI,74571,2,No,None,2022
+P1063,Male,28,Bangalore,Manipal Hospital,Primary,Obstruction,IVF,227601,3,Yes,Partial,2022
+P1064,Male,32,Bangalore,Manipal Hospital,Secondary,Varicocele,Medication,50841,2,No,None,2020
+P1065,Male,29,Bangalore,Manipal Hospital,Secondary,Obstruction,IUI,87308,2,No,None,2023
+P1066,Female,26,Bangalore,Manipal Hospital,Secondary,Endometriosis,Surgery,145034,1,Yes,Partial,2024
+P1067,Male,42,Chennai,Apollo Hospital,Secondary,Genetic Factors,IUI,83884,1,No,None,2022
+P1068,Female,40,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,Surgery,156047,1,Yes,None,2023
+P1069,Female,26,Mumbai,Fortis Hospital,Secondary,Advanced Maternal Age,Medication,58254,2,No,Partial,2022
+P1070,Female,29,Bangalore,Manipal Hospital,Primary,Blocked Fallopian Tubes,IUI,76932,2,No,None,2023
+P1071,Female,28,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,176055,1,No,Partial,2023
+P1072,Female,29,Hyderabad,Yashoda Hospital,Secondary,PCOS,Medication,31354,2,Yes,None,2021
+P1073,Female,41,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,IUI,82649,2,Yes,None,2025
+P1074,Male,29,Mumbai,Fortis Hospital,Primary,Varicocele,Surgery,162774,1,Yes,None,2021
+P1075,Female,32,Pune,Ruby Hall Clinic,Secondary,Advanced Maternal Age,IUI,81645,1,No,Partial,2020
+P1076,Female,27,Pune,Ruby Hall Clinic,Secondary,Endometriosis,Medication,30106,2,Yes,Full,2021
+P1077,Male,39,Chennai,Apollo Hospital,Secondary,Varicocele,IUI,89784,2,Yes,Full,2021
+P1078,Male,36,Mumbai,Fortis Hospital,Secondary,Hormonal Imbalance,Surgery,169473,1,Yes,Partial,2024
+P1079,Female,39,Kolkata,AMRI Hospital,Secondary,Blocked Fallopian Tubes,Medication,30711,1,Yes,Full,2023
+P1080,Female,42,Chennai,Apollo Hospital,Secondary,Blocked Fallopian Tubes,IVF,252003,2,No,Partial,2020
+P1081,Male,45,Mumbai,Fortis Hospital,Primary,Low Motility,IVF,229741,3,No,Full,2021
+P1082,Female,34,Bangalore,Manipal Hospital,Secondary,PCOS,Medication,37794,2,Yes,Full,2024
+P1083,Male,25,Pune,Ruby Hall Clinic,Primary,Genetic Factors,IUI,81653,1,No,None,2020
+P1084,Female,39,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,Surgery,172116,1,Yes,Partial,2021
+P1085,Male,29,Mumbai,Fortis Hospital,Primary,Infection,Surgery,197911,1,Yes,Full,2023
+P1086,Male,36,Kolkata,AMRI Hospital,Primary,Genetic Factors,Medication,33519,2,No,Partial,2022
+P1087,Male,32,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,IUI,86362,1,Yes,None,2025
+P1088,Female,37,Pune,Ruby Hall Clinic,Secondary,Ovulation Disorder,IVF,262704,2,Yes,None,2020
+P1089,Male,36,Hyderabad,Yashoda Hospital,Primary,Low Sperm Count,IUI,88983,1,No,None,2023
+P1090,Female,27,Kolkata,AMRI Hospital,Secondary,PCOS,IUI,73118,1,No,Partial,2021
+P1091,Male,31,Pune,Ruby Hall Clinic,Primary,Varicocele,Surgery,144044,1,Yes,Full,2024
+P1092,Male,34,Chennai,Apollo Hospital,Secondary,Low Sperm Count,Surgery,155041,1,No,None,2021
+P1093,Female,41,Chennai,Apollo Hospital,Secondary,Unexplained Infertility,Surgery,145520,1,Yes,None,2020
+P1094,Male,41,Bangalore,Manipal Hospital,Primary,Obstruction,IUI,80287,2,No,Full,2020
+P1095,Male,45,Hyderabad,Yashoda Hospital,Secondary,Varicocele,IUI,79991,2,Yes,None,2022
+P1096,Female,27,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,Medication,35612,2,Yes,Full,2020
+P1097,Female,28,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IVF,195367,3,No,Partial,2023
+P1098,Female,27,Hyderabad,Yashoda Hospital,Primary,Advanced Maternal Age,IVF,180483,2,No,None,2025
+P1099,Male,35,Delhi,Max Hospital,Secondary,Low Motility,Medication,40458,1,No,Full,2025
+P1100,Male,39,Pune,Ruby Hall Clinic,Primary,Low Motility,IUI,84339,1,Yes,Partial,2023
+P1101,Male,30,Hyderabad,Yashoda Hospital,Secondary,Low Motility,IUI,78368,2,No,Partial,2021
+P1102,Female,27,Delhi,Max Hospital,Primary,Unexplained Infertility,Medication,56500,1,Yes,Full,2020
+P1103,Male,26,Pune,Ruby Hall Clinic,Primary,Low Sperm Count,Medication,56232,1,No,Partial,2022
+P1104,Female,42,Pune,Ruby Hall Clinic,Primary,PCOS,Surgery,149137,1,No,Partial,2025
+P1105,Female,25,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,Medication,45110,1,Yes,None,2023
+P1106,Male,28,Bangalore,Manipal Hospital,Secondary,Obstruction,IVF,198647,3,No,None,2020
+P1107,Male,43,Pune,Ruby Hall Clinic,Secondary,Varicocele,Medication,31946,1,Yes,Partial,2022
+P1108,Male,24,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,Surgery,198448,1,Yes,Full,2024
+P1109,Female,36,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,IUI,84301,2,Yes,None,2020
+P1110,Female,43,Mumbai,Fortis Hospital,Secondary,Ovulation Disorder,Surgery,183936,1,No,None,2020
+P1111,Female,34,Bangalore,Manipal Hospital,Secondary,Unexplained Infertility,IVF,276729,3,Yes,None,2025
+P1112,Female,25,Chennai,Apollo Hospital,Primary,Unexplained Infertility,IUI,80384,1,Yes,Partial,2023
+P1113,Female,33,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,Medication,48356,2,Yes,Partial,2023
+P1114,Male,44,Mumbai,Fortis Hospital,Primary,Infection,Surgery,195975,1,No,Full,2024
+P1115,Male,39,Kolkata,AMRI Hospital,Primary,Low Motility,IVF,295604,3,No,Partial,2023
+P1116,Male,44,Mumbai,Fortis Hospital,Secondary,Hormonal Imbalance,IUI,88294,1,No,Partial,2020
+P1117,Female,29,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Medication,59177,2,No,None,2020
+P1118,Male,38,Kolkata,AMRI Hospital,Primary,Hormonal Imbalance,Medication,54661,2,Yes,None,2025
+P1119,Male,26,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Surgery,177615,1,No,None,2024
+P1120,Female,38,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,Surgery,158547,1,Yes,Partial,2022
+P1121,Female,27,Pune,Ruby Hall Clinic,Secondary,PCOS,IUI,83188,1,Yes,Full,2024
+P1122,Male,28,Mumbai,Fortis Hospital,Primary,Low Motility,IVF,193860,2,Yes,Full,2021
+P1123,Female,40,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,Surgery,165798,1,Yes,Full,2022
+P1124,Male,39,Pune,Ruby Hall Clinic,Secondary,Obstruction,IVF,197187,2,Yes,None,2025
+P1125,Female,31,Mumbai,Fortis Hospital,Primary,Unexplained Infertility,IVF,276768,2,Yes,None,2020
+P1126,Female,24,Hyderabad,Yashoda Hospital,Primary,Ovulation Disorder,IUI,75097,1,Yes,Partial,2023
+P1127,Female,39,Delhi,Max Hospital,Secondary,Unexplained Infertility,Surgery,158818,1,No,Partial,2022
+P1128,Male,25,Hyderabad,Yashoda Hospital,Secondary,Low Motility,Medication,47078,2,Yes,None,2020
+P1129,Female,32,Hyderabad,Yashoda Hospital,Secondary,Advanced Maternal Age,Medication,30466,1,Yes,None,2020
+P1130,Male,31,Mumbai,Fortis Hospital,Secondary,Genetic Factors,Medication,41915,2,No,None,2023
+P1131,Female,41,Bangalore,Manipal Hospital,Primary,Ovulation Disorder,IUI,71369,2,Yes,Full,2020
+P1132,Male,32,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,IUI,70960,2,Yes,None,2022
+P1133,Male,31,Kolkata,AMRI Hospital,Primary,Low Motility,Medication,52976,2,No,Partial,2023
+P1134,Male,35,Hyderabad,Yashoda Hospital,Primary,Low Sperm Count,Medication,42460,1,Yes,None,2024
+P1135,Male,41,Pune,Ruby Hall Clinic,Secondary,Low Motility,IVF,280723,3,No,None,2021
+P1136,Female,29,Chennai,Apollo Hospital,Secondary,Advanced Maternal Age,IUI,77533,1,Yes,Full,2020
+P1137,Male,35,Hyderabad,Yashoda Hospital,Primary,Genetic Factors,Surgery,163376,1,Yes,Full,2020
+P1138,Male,37,Hyderabad,Yashoda Hospital,Primary,Varicocele,IVF,233902,2,No,Partial,2025
+P1139,Male,40,Pune,Ruby Hall Clinic,Primary,Varicocele,IVF,225291,3,Yes,None,2022
+P1140,Male,28,Mumbai,Fortis Hospital,Primary,Varicocele,Medication,32607,2,No,Full,2020
+P1141,Male,42,Chennai,Apollo Hospital,Primary,Varicocele,Medication,58965,1,No,None,2024
+P1142,Male,39,Delhi,Max Hospital,Secondary,Low Motility,IVF,290934,2,Yes,Full,2023
+P1143,Male,30,Delhi,Max Hospital,Primary,Hormonal Imbalance,IUI,93025,1,No,Partial,2025
+P1144,Female,34,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,Surgery,199310,1,No,Full,2025
+P1145,Female,41,Delhi,Max Hospital,Secondary,Blocked Fallopian Tubes,IUI,83523,2,Yes,None,2021
+P1146,Male,36,Kolkata,AMRI Hospital,Secondary,Genetic Factors,IUI,89161,2,No,Full,2025
+P1147,Female,31,Bangalore,Manipal Hospital,Primary,Unexplained Infertility,IUI,92391,1,Yes,Full,2022
+P1148,Female,25,Hyderabad,Yashoda Hospital,Secondary,Endometriosis,IUI,78478,2,No,None,2023
+P1149,Male,31,Chennai,Apollo Hospital,Primary,Genetic Factors,IVF,184914,3,Yes,None,2023
+P1150,Female,32,Pune,Ruby Hall Clinic,Primary,PCOS,IVF,292733,3,Yes,Full,2023
+P1151,Female,33,Mumbai,Fortis Hospital,Primary,Ovulation Disorder,IVF,233342,3,No,Full,2020
+P1152,Female,32,Chennai,Apollo Hospital,Primary,Blocked Fallopian Tubes,Medication,53056,1,Yes,Full,2025
+P1153,Male,29,Pune,Ruby Hall Clinic,Secondary,Genetic Factors,Medication,52674,2,No,Partial,2022
+P1154,Female,36,Mumbai,Fortis Hospital,Primary,Endometriosis,IVF,199133,3,No,Partial,2023
+P1155,Male,27,Hyderabad,Yashoda Hospital,Primary,Varicocele,IUI,81499,1,No,Full,2020
+P1156,Female,31,Mumbai,Fortis Hospital,Primary,Blocked Fallopian Tubes,IUI,81150,2,No,Full,2024
+P1157,Female,35,Kolkata,AMRI Hospital,Secondary,PCOS,IUI,94393,1,No,Partial,2022
+P1158,Male,38,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,Surgery,187760,1,No,None,2021
+P1159,Male,33,Hyderabad,Yashoda Hospital,Secondary,Low Motility,IUI,94003,1,No,None,2025
+P1160,Male,39,Chennai,Apollo Hospital,Primary,Hormonal Imbalance,IVF,281057,2,No,None,2023
+P1161,Female,35,Pune,Ruby Hall Clinic,Primary,Ovulation Disorder,Surgery,147651,1,Yes,None,2020
+P1162,Male,26,Mumbai,Fortis Hospital,Secondary,Varicocele,IVF,183516,3,Yes,Partial,2021
+P1163,Male,44,Chennai,Apollo Hospital,Secondary,Hormonal Imbalance,Medication,35213,2,No,Full,2025
+P1164,Female,33,Pune,Ruby Hall Clinic,Primary,Advanced Maternal Age,IUI,74368,1,Yes,Partial,2021
+P1165,Female,44,Chennai,Apollo Hospital,Secondary,Ovulation Disorder,IVF,200930,3,Yes,Full,2022
+P1166,Male,27,Bangalore,Manipal Hospital,Primary,Obstruction,IVF,282518,2,Yes,None,2022
+P1167,Female,37,Bangalore,Manipal Hospital,Secondary,Advanced Maternal Age,IVF,225680,3,Yes,None,2020
+P1168,Male,30,Pune,Ruby Hall Clinic,Secondary,Varicocele,Medication,55659,1,Yes,Full,2023
+P1169,Female,35,Kolkata,AMRI Hospital,Primary,Unexplained Infertility,IVF,222505,2,Yes,None,2021
+P1170,Male,45,Bangalore,Manipal Hospital,Primary,Low Sperm Count,Medication,35535,1,No,Full,2022
+P1171,Female,29,Delhi,Max Hospital,Primary,Blocked Fallopian Tubes,IVF,185343,3,Yes,Partial,2021
+P1172,Female,24,Delhi,Max Hospital,Primary,PCOS,Medication,59490,1,Yes,Partial,2025
+P1173,Male,29,Hyderabad,Yashoda Hospital,Secondary,Hormonal Imbalance,IVF,245091,2,No,None,2022
+P1174,Male,30,Delhi,Max Hospital,Primary,Obstruction,IVF,214755,2,Yes,None,2022
+P1175,Male,45,Delhi,Max Hospital,Primary,Obstruction,Medication,48526,2,No,Full,2023
+P1176,Female,28,Mumbai,Fortis Hospital,Secondary,PCOS,IUI,84089,1,No,Full,2025
+P1177,Female,35,Hyderabad,Yashoda Hospital,Secondary,PCOS,IVF,288183,3,No,None,2025
+P1178,Female,31,Bangalore,Manipal Hospital,Secondary,Ovulation Disorder,Medication,40279,2,No,None,2023
+P1179,Male,35,Chennai,Apollo Hospital,Secondary,Varicocele,Medication,31998,1,No,Full,2022
+P1180,Male,40,Hyderabad,Yashoda Hospital,Secondary,Low Motility,IUI,75244,1,Yes,Full,2024
+P1181,Female,45,Delhi,Max Hospital,Secondary,Ovulation Disorder,IUI,86171,1,No,None,2020
+P1182,Female,26,Bangalore,Manipal Hospital,Primary,Advanced Maternal Age,Surgery,196805,1,No,Partial,2020
+P1183,Female,25,Kolkata,AMRI Hospital,Primary,Advanced Maternal Age,IUI,94944,1,No,None,2024
+P1184,Male,31,Bangalore,Manipal Hospital,Secondary,Low Sperm Count,IUI,82141,2,Yes,Full,2021
+P1185,Male,40,Mumbai,Fortis Hospital,Primary,Infection,IVF,230247,3,Yes,Partial,2025
+P1186,Male,24,Kolkata,AMRI Hospital,Primary,Infection,Medication,58920,1,No,Full,2020
+P1187,Male,32,Chennai,Apollo Hospital,Primary,Genetic Factors,IVF,233317,2,Yes,None,2023
+P1188,Male,30,Delhi,Max Hospital,Secondary,Hormonal Imbalance,IUI,81798,1,Yes,None,2025
+P1189,Male,27,Bangalore,Manipal Hospital,Secondary,Genetic Factors,Surgery,185906,1,Yes,Full,2024
+P1190,Female,38,Kolkata,AMRI Hospital,Secondary,PCOS,Surgery,177050,1,Yes,Partial,2020
+P1191,Female,41,Hyderabad,Yashoda Hospital,Primary,Blocked Fallopian Tubes,IUI,73791,1,No,Partial,2024
+P1192,Male,33,Kolkata,AMRI Hospital,Secondary,Hormonal Imbalance,IUI,88368,1,No,Partial,2023
+P1193,Male,30,Bangalore,Manipal Hospital,Secondary,Infection,IUI,93721,1,Yes,Partial,2020
+P1194,Female,43,Mumbai,Fortis Hospital,Primary,PCOS,Medication,55479,2,No,Partial,2021
+P1195,Male,34,Bangalore,Manipal Hospital,Primary,Infection,IVF,198836,3,No,Full,2022
+P1196,Female,45,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IUI,80365,1,Yes,Full,2025
+P1197,Female,25,Pune,Ruby Hall Clinic,Secondary,Unexplained Infertility,IUI,93914,2,Yes,Partial,2024
+P1198,Male,34,Hyderabad,Yashoda Hospital,Secondary,Infection,Surgery,191211,1,Yes,None,2025
+P1199,Male,41,Mumbai,Fortis Hospital,Secondary,Genetic Factors,Surgery,186316,1,Yes,Full,2023
+P1200,Female,45,Delhi,Max Hospital,Secondary,Advanced Maternal Age,IUI,85271,2,Yes,Partial,2025
