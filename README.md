@@ -25,22 +25,23 @@ DAX: (KPIs and Measures)
 ## Key KPIs:
  #Total Patients,
  
- <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1a6badb7-acc8-43e9-b3ae-25a81eaaa5a6" />
+ <img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/1a6badb7-acc8-43e9-b3ae-25a81eaaa5a6" />
  
 #Total Treatment Cycles,
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3ce46be2-2cb5-4193-a8a6-93b6557ce765" />
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/3ce46be2-2cb5-4193-a8a6-93b6557ce765" />
 
 #Overall Success Rate,
 
-<img width="483" height="252" alt="image" src="https://github.com/user-attachments/assets/475f8483-fc33-4f1d-9daa-4d68617af76c" />
+<img width="403" height="202" alt="image" src="https://github.com/user-attachments/assets/475f8483-fc33-4f1d-9daa-4d68617af76c" />
 
 #Total Revenue,
 
-<img width="758" height="572" alt="image" src="https://github.com/user-attachments/assets/60697397-13ff-449b-b6b9-2a93a6fba2d8" />
+<img width="658" height="472" alt="image" src="https://github.com/user-attachments/assets/60697397-13ff-449b-b6b9-2a93a6fba2d8" />
 
 #Average Treatment Cost.
-<img width="438" height="494" alt="image" src="https://github.com/user-attachments/assets/d81a00e4-e436-459e-8160-79bd2a01ab9c" />
+
+<img width="338" height="394" alt="image" src="https://github.com/user-attachments/assets/d81a00e4-e436-459e-8160-79bd2a01ab9c" />
 
 ## Key Insights:
 Higher success rates in younger age groups.
