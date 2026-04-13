@@ -23,21 +23,23 @@ PowerBI: Visualization and Dashboard
 DAX: (KPIs and Measures)
 
 ## Key KPIs:
- Total Patients,
+ #Total Patients,
  
- <img width="767" height="284" alt="image" src="https://github.com/user-attachments/assets/1a6badb7-acc8-43e9-b3ae-25a81eaaa5a6" />
+ <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1a6badb7-acc8-43e9-b3ae-25a81eaaa5a6" />
  
-Total Treatment Cycles,
+#Total Treatment Cycles,
 
-<img width="634" height="485" alt="image" src="https://github.com/user-attachments/assets/3ce46be2-2cb5-4193-a8a6-93b6557ce765" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3ce46be2-2cb5-4193-a8a6-93b6557ce765" />
 
-Overall Success Rate,
+#Overall Success Rate,
+
 <img width="483" height="252" alt="image" src="https://github.com/user-attachments/assets/475f8483-fc33-4f1d-9daa-4d68617af76c" />
 
-Total Revenue,
+#Total Revenue,
+
 <img width="758" height="572" alt="image" src="https://github.com/user-attachments/assets/60697397-13ff-449b-b6b9-2a93a6fba2d8" />
 
-Average Treatment Cost.
+#Average Treatment Cost.
 <img width="438" height="494" alt="image" src="https://github.com/user-attachments/assets/d81a00e4-e436-459e-8160-79bd2a01ab9c" />
 
 ## Key Insights:
